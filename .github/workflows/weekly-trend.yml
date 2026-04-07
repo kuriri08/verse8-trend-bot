@@ -1,0 +1,24 @@
+name: VERSE8 Trend Bot
+
+on:
+  schedule:
+    # 매일 KST 09:30 = UTC 00:30
+    - cron: '30 0 * * *'
+  workflow_dispatch:  # 수동 실행
+
+jobs:
+  daily-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Run Daily Trend Bot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_TEST_USER_ID: ${{ secrets.SLACK_TEST_USER_ID }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        run: python scripts/run_daily.py

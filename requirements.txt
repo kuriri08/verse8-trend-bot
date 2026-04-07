@@ -1,0 +1,7 @@
+google-genai
+pytrends
+feedparser
+requests
+python-dotenv
+beautifulsoup4
+google-play-scraper
