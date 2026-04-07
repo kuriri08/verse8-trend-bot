@@ -1,4 +1,5 @@
 .env
+gcp-credentials.json
 data/raw/
 __pycache__/
 *.pyc
