@@ -1,0 +1,105 @@
+{
+  "steam_top_sellers": [
+    "Fallout 1st",
+    "Fallout 1st",
+    "EA Play",
+    "Crimson Desert",
+    "iRacing",
+    "iRacing",
+    "Slay the Spire 2",
+    "Prime Status Upgrade",
+    "STAR WARS™: The Old Republic™  - Subscriptions",
+    "STAR WARS™: The Old Republic™  - Subscriptions"
+  ],
+  "steam_top_players": [
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "players": 0
+    },
+    {
+      "name": "Apex Legends",
+      "players": 0
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "players": 0
+    },
+    {
+      "name": "Palworld",
+      "players": 0
+    },
+    {
+      "name": "Team Fortress 2",
+      "players": 0
+    },
+    {
+      "name": "Call of Duty: Modern Warfare II",
+      "players": 0
+    },
+    {
+      "name": "New World: Aeternum",
+      "players": 0
+    },
+    {
+      "name": "Black Myth: Wukong",
+      "players": 0
+    },
+    {
+      "name": "Grand Theft Auto V Legacy",
+      "players": 0
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "players": 0
+    },
+    {
+      "name": "Unturned",
+      "players": 0
+    },
+    {
+      "name": "Lost Ark",
+      "players": 0
+    },
+    {
+      "name": "War Thunder",
+      "players": 0
+    },
+    {
+      "name": "Monster Hunter Wilds",
+      "players": 0
+    },
+    {
+      "name": "HELLDIVERS 2",
+      "players": 0
+    }
+  ],
+  "gplay_top_free": [
+    "CookieRun: OvenSmash",
+    "SD Gundam G Generation ETERNAL",
+    "The Seven Deadly Sins: Origin",
+    "CookieRun: Kingdom",
+    "Seven Knights Re:BIRTH",
+    "P5X | Persona5: The Phantom X",
+    "Arknights",
+    "Township",
+    "Clash Royale",
+    "Clash of Clans",
+    "Gardenscapes",
+    "Evony: The King's Return",
+    "Lost Sword",
+    "Summoners War",
+    "Epic Seven"
+  ],
+  "gplay_trending_new": [
+    "Football League 2026",
+    "2026 Jewel Match Island",
+    "Dream League Soccer 2026",
+    "2026 Bluemon Match",
+    "Truck Manager - 2026",
+    "Candy 2026",
+    "Word Game : Games 2026",
+    "Train Manager - 2026",
+    "Shipping Manager - 2026",
+    "Soccer Manager 2026 - Football"
+  ]
+}

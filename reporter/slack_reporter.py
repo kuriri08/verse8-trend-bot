@@ -49,19 +49,53 @@ def send_dm(text: str, user_id: str = None, week_label: str = "") -> dict:
 
 
 def send_to_channel(text: str, channel_id: str, week_label: str = "") -> dict:
-    """Slack 채널로 트렌드 브리핑 발송"""
+    """Slack 채널로 제목 발송 → 쓰레드에 상세 내용 발송"""
     token = os.environ.get('SLACK_BOT_TOKEN', '')
 
     if not token:
         return {'ok': False, 'error': 'SLACK_BOT_TOKEN not set'}
-
-    blocks = _build_blocks(text, week_label=week_label)
 
     url = "https://slack.com/api/chat.postMessage"
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json; charset=utf-8",
     }
+
+    # 1) 메인 채널에 제목만 발송
+    if week_label:
+        header_text = f"VERSE8 Daily Trend Briefing ({week_label})"
+    else:
+        header_text = "VERSE8 Daily Trend Briefing"
+
+    header_blocks = [
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": header_text, "emoji": True}
+        },
+        {
+            "type": "context",
+            "elements": [
+                {"type": "mrkdwn", "text": "_상세 내용은 쓰레드를 확인하세요_"}
+            ]
+        },
+    ]
+
+    payload = {
+        "channel": channel_id,
+        "blocks": header_blocks,
+        "text": header_text,
+        "unfurl_links": False,
+        "unfurl_media": False,
+    }
+    r = requests.post(url, headers=headers, json=payload)
+    main_result = r.json()
+
+    if not main_result.get('ok'):
+        return main_result
+
+    # 2) 쓰레드에 상세 내용 발송
+    thread_ts = main_result.get('ts', '')
+    blocks = _build_blocks(text, week_label="")  # 헤더 없이 내용만
 
     chunk_size = 45
     last_result = None
@@ -72,6 +106,7 @@ def send_to_channel(text: str, channel_id: str, week_label: str = "") -> dict:
             "channel": channel_id,
             "blocks": chunk,
             "text": "VERSE8 Daily Trend Briefing",
+            "thread_ts": thread_ts,
             "unfurl_links": False,
             "unfurl_media": False,
         }
