@@ -17,7 +17,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 from dotenv import load_dotenv
 load_dotenv(PROJECT_ROOT / '.env', override=True)
 
-from collectors import google_trends, hackernews, rss_feeds, steam, google_play
+from collectors import google_trends, hackernews, rss_feeds, steam, google_play, reddit
 from collectors.weekly_diff import save_snapshot, compute_diff
 from analyzer.trend_analyzer import analyze
 from analyzer.weekly_game_analyzer import analyze_weekly_games
@@ -66,6 +66,7 @@ def collect_all():
         'google_trends': google_trends.collect,
         'hackernews': hackernews.collect,
         'rss_feeds': rss_feeds.collect,
+        'reddit': reddit.collect,
         'steam': steam.collect,
         'google_play': google_play.collect,
     }
