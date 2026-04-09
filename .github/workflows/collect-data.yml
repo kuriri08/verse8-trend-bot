@@ -1,0 +1,23 @@
+name: Collect Data
+
+on:
+  workflow_dispatch:  # 수동 실행 + cron-job.org에서 트리거
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Collect data
+        run: python scripts/run_collect_only.py
+      - name: Commit snapshot
+        run: |
+          git config user.name "verse8-trend-bot"
+          git config user.email "bot@verse8.dev"
+          git add data/history/
+          git diff --cached --quiet || git commit -m "auto: daily data collection"
+          git push
