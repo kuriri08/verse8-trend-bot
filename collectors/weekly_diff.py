@@ -36,6 +36,10 @@ def save_snapshot(collected_data: dict):
         g.get('title', '') for g in gp.get('trending_new', []) if isinstance(g, dict)
     ]
 
+    # 네이버 뉴스 (다음날 리포트에 사용)
+    naver = collected_data.get('naver_news', {})
+    snapshot['naver_articles'] = naver.get('articles', [])
+
     filepath = HISTORY_DIR / f'{date_str}.json'
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=2)
@@ -58,6 +62,14 @@ def get_previous_snapshot():
             with open(f, 'r', encoding='utf-8') as fp:
                 return json.load(fp)
     return None
+
+
+def get_yesterday_naver() -> list:
+    """어제 저장된 네이버 뉴스 데이터 로드"""
+    prev = get_previous_snapshot()
+    if prev and 'naver_articles' in prev:
+        return prev['naver_articles']
+    return []
 
 
 def compute_diff(collected_data: dict) -> dict:

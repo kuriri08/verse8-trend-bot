@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 load_dotenv(PROJECT_ROOT / '.env', override=True)
 
 from collectors import google_trends, hackernews, rss_feeds, steam, google_play, reddit, naver_news
-from collectors.weekly_diff import save_snapshot, compute_diff
+from collectors.weekly_diff import save_snapshot, compute_diff, get_yesterday_naver
 from analyzer.trend_analyzer import analyze
 from analyzer.weekly_game_analyzer import analyze_weekly_games
 from reporter.slack_reporter import send_dm
@@ -121,7 +121,15 @@ def main():
         print("❌ 모든 수집기 실패. 중단.")
         sys.exit(1)
 
-    # 3) 전일 대비 변동 비교
+    # 3) 네이버 뉴스를 어제 저장분으로 교체 (오늘 수집분은 내일용으로 저장만)
+    yesterday_naver = get_yesterday_naver()
+    if yesterday_naver:
+        collected['naver_news'] = {'articles': yesterday_naver, 'source': 'naver_news (어제 인기 기사)'}
+        print(f"📰 네이버 뉴스: 어제 저장분 {len(yesterday_naver)}건 사용")
+    else:
+        print("📰 네이버 뉴스: 어제 데이터 없음, 오늘 수집분 사용")
+
+    # 4) 전일 대비 변동 비교
     print("\n📊 Computing daily diff...")
     diff = compute_diff(collected)
     if diff.get('has_diff'):
