@@ -14,14 +14,7 @@ FEEDS = {
     # 글로벌 문화/엔터
     'BBC Culture': 'https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml',
     'Variety': 'https://variety.com/feed/',
-    # 한국 테크/IT
-    '전자신문': 'https://rss.etnews.com/Section901.xml',
-    # 한국 게임
-    '인벤': 'https://www.inven.co.kr/webzine/news/rss.php',
-    '루리웹': 'https://bbs.ruliweb.com/news/rss',
-    # 한국 종합/사회
-    '한겨레': 'https://www.hani.co.kr/rss/',
-    '연합뉴스': 'https://www.yna.co.kr/rss/news.xml',
+    # 한국 소스는 naver_news.py에서 수집 (인기순 정렬 가능)
 }
 
 # 키워드 필터 없이 모든 기사를 수집 (Claude가 분류)
