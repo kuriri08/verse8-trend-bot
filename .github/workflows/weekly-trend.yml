@@ -17,5 +17,5 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_TEST_USER_ID: ${{ secrets.SLACK_TEST_USER_ID }}
-          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          SLACK_CHANNEL_IDS: ${{ secrets.SLACK_CHANNEL_IDS }}
         run: python scripts/run_daily.py

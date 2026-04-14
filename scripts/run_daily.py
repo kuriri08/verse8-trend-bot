@@ -168,21 +168,23 @@ def main():
         print(f"  ❌ Analysis failed: {e}")
         sys.exit(1)
 
-    # 6) Slack 발송
+    # 6) Slack 발송 (여러 채널 지원)
     print("\n📨 Sending to Slack...")
-    # 채널 발송
     from reporter.slack_reporter import send_to_channel
-    channel_id = os.environ.get('SLACK_CHANNEL_ID', '')
-    if channel_id:
-        result = send_to_channel(full_message, channel_id, week_label=date_label)
+    channel_ids = os.environ.get('SLACK_CHANNEL_IDS', os.environ.get('SLACK_CHANNEL_ID', ''))
+    channels = [c.strip() for c in channel_ids.split(',') if c.strip()]
+
+    if channels:
+        for ch in channels:
+            result = send_to_channel(full_message, ch, week_label=date_label)
+            if result.get('ok'):
+                print(f"  ✅ {ch} sent!")
+            else:
+                print(f"  ❌ {ch} error: {result.get('error', 'unknown')}")
     else:
         result = send_dm(full_message, week_label=date_label)
-    if result.get('ok'):
-        print("  ✅ Slack DM sent!")
-    else:
-        print(f"  ❌ Slack error: {result.get('error', 'unknown')}")
-        print("\n--- Briefing (fallback) ---")
-        print(full_message)
+        if result.get('ok'):
+            print("  ✅ DM sent!")
         sys.exit(1)
 
     print("\n✅ Done!")
