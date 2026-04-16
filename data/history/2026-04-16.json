@@ -143,7 +143,151 @@
       "title": "취업자 두 달째 20만명대 증가…청년 일자리는 또 줄어",
       "url": "https://n.news.naver.com/mnews/article/016/0002629904",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "보안허점 뚫는 AI '미토스' 충격에…금융위, 금융권 비상소집",
+      "url": "https://n.news.naver.com/mnews/article/001/0016022380",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "삼성전자 ‘갤럭시 S26 울트라’ 美컨슈머리포트 1위…3년 연속",
+      "url": "https://n.news.naver.com/mnews/article/016/0002629776",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "업스테이지, 국내 AI 개발사 첫 유니콘…누적 투자 4천억[AI픽]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016021961",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "메타렌즈, 초당 300개 “신문 인쇄처럼 찍어낸다”…한국, 대량생산기술 확보",
+      "url": "https://n.news.naver.com/mnews/article/016/0002630352",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "펄어비스 붉은사막, 한달도 안됐는데 벌써 500만장 돌파",
+      "url": "https://n.news.naver.com/mnews/article/421/0008892110",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "성능·안전 동시에 잡은 전고체 배터리 핵심 소재 개발",
+      "url": "https://n.news.naver.com/mnews/article/014/0005507971",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "케이블TV 빛낸 인물에 ‘HBS 연예특급’ 전 MC 송승환",
+      "url": "https://n.news.naver.com/mnews/article/092/0002418798",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘션’도 달린다… 삼성전자, 에버랜드서 ‘갤럭시 워치런 사파리’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/366/0001157259",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"내일도 반소매\" 초여름 날씨 이어진다...일교차 유의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002341174",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "낮 최고 26도까지 오른다…큰 일교차 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005749536",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"슈붕파 모두 모여라\" 오리온, '참붕어빵 우유슈크림맛' 출시",
+      "url": "https://n.news.naver.com/mnews/article/003/0013890504",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "EDM 울리는 '왕의 길'과 한복 패션쇼…\"K-궁궐 널리 알려졌으면\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016023830",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "BTS, 美 ‘아메리칸 뮤직 어워즈’ 올해의 아티스트 후보 올라…5년 만",
+      "url": "https://n.news.naver.com/mnews/article/449/0000341737",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전북 맑다가 차차 흐려져…낮 최고 23~28도[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012163375",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 4월 16일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006258156",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "100㎞당 2.22리터...中, '하이브리드+SDV'로 패러다임 전환",
+      "url": "https://n.news.naver.com/mnews/article/092/0002418853",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "취업자 20만명 늘었지만…청년 고용은 41개월째 감소",
+      "url": "https://n.news.naver.com/mnews/article/020/0003712503",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "미래운용 ‘TIGER ETF’, 국내 주식 테마형 순자산 25조원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/029/0003021891",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "HD건설기계, 연비·성능 갖춘 'HX320' 판매 순항…고유가 속 수요↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0008890847",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "가전 넘어 AI TV 대중화 시대 연다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004121221",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "외국인 지난달 주식 43.5조 순매도…역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016024208",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "코스피, 외인 매수세에 상승 마감…위험자산 선호 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005344662",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "강남도 하락 전환… 서울 집값 주춤한 새 상반기 착공 속도 낸다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003635759",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "수입물가, 28년여만에 최고 상승률...유가·환율 급등에 16%↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001249031",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
