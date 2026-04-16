@@ -425,7 +425,151 @@
       "title": "테슬라 AI5 칩에 찍힌 KR2613…삼성 ‘2나노 승부’ 통했다 [갭 월드]",
       "url": "https://n.news.naver.com/mnews/article/011/0004611221",
       "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"코딩부터 다시 배워라\"…'AI 지각생' 위기감 느낀 애플의 고육지책",
+      "url": "https://n.news.naver.com/mnews/article/003/0013892396",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "다문화상담 다누리콜센터 AI 통역 도입…야간·휴일 메꾼다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0008894798",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘미토스 쇼크’에 네카토·통신사도 비상",
+      "url": "https://n.news.naver.com/mnews/article/029/0003022099",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "젠슨 황, AI 다음 패권 '양자' 낙점…오픈 모델로 QPU 표준 선점 본격화[AI는 지금]",
+      "url": "https://n.news.naver.com/mnews/article/092/0002418905",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "우주청 ‘국가 우주상황인식 시스템(K-SSA)’ 개발 본격 착수",
+      "url": "https://n.news.naver.com/mnews/article/119/0003081388",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "R&D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001349173",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "배경훈 \"스탠퍼드 AI지수, 국가 차원 노력 성과\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002419017",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "첨단기술로 국가유산 새 가치 만든다…올해 160억원 투입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016026218",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "BTS 광화문 공연 효과…1분기 방한 외국인 476만명 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003418576",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "자폐아 부모 3명 중 1명 정신건강 문제…\"스트레스 원인, 아이 아닌 부모\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003081183",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "충북 때이른 여름 더위…내일 비소식[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012163967",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "봄 어디 갔나봄…주말까지 '초여름 더위' 계속",
+      "url": "https://n.news.naver.com/mnews/article/654/0000176050",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "청년예술인 만난 최휘영 \"추경으로 연수단원 118→393명 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016026249",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘한국판 코첼라’ 탄생하나…‘빅4’ 하이브·SM·YG·JYP 뭉친다",
+      "url": "https://n.news.naver.com/mnews/article/028/0002801093",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "세계가 주목하는 ‘차세대 K무용수 3인’, 첫 내한 공연",
+      "url": "https://n.news.naver.com/mnews/article/028/0002801106",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "때 이른 초여름 더위 잠시 주춤, 낮 최고 21도 [내일 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004121468",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "중복상장, 모회사 일반주주 동의 얻어야 허용…M&A·IPO시장 위축 우려도(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006258625",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "올해 보유세수 1.1조원 오를 듯…서울서만 1조",
+      "url": "https://n.news.naver.com/mnews/article/028/0002801023",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "강남3구 집값 8주 연속 하락…서울 전셋값 81주만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/449/0000341939",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "로그인 한 번에 사업 신청…중기부, AI 통합플랫폼 내달 시범운영",
+      "url": "https://n.news.naver.com/mnews/article/055/0001349170",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "“최고가격제 이후 기름 소비 감소”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012163814",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"위법행위는 금지!\" 기싸움 본격화‥삼성전자 파업 초읽기?",
+      "url": "https://n.news.naver.com/mnews/article/214/0001493362",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "전기차 충전시설 제때 수리 안하면 200만원 과태료…관리부실 막는다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005345240",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "산은·수은, 석유공사 지원 … 원유 확보에 30억달러 공급",
+      "url": "https://n.news.naver.com/mnews/article/009/0005667196",
+      "collected_at": "21:00"
     }
   ],
-  "naver_last_collected": "15:00"
+  "naver_last_collected": "21:00"
 }
