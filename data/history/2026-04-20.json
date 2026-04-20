@@ -281,7 +281,151 @@
       "title": "화학물질 다량 취급 사업장 집중 안전점검…400곳 대상",
       "url": "https://n.news.naver.com/mnews/article/003/0013896663",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "방미통위, 3차 회의…지분변경 승인·과태료 처분 등 논의(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0008899971",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "라인게임즈, 호러·협동의 재미 PC ‘CODE EXIT’ 퍼블리싱",
+      "url": "https://n.news.naver.com/mnews/article/009/0005668412",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "넷마블, ‘왕좌의 게임:킹스로드’ 5월14일 PC 선공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005668310",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"진단부터 행정까지 AI로\"…과기정통부, 'AI특화병원' 시범사업 공모",
+      "url": "https://n.news.naver.com/mnews/article/277/0005751904",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "[영상]세계 최초 ‘주름 안 생기는 폴더블폰 기술’ 국내 연구진이 개발 성공",
+      "url": "https://n.news.naver.com/mnews/article/032/0003440851",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SK브로드밴드, 전 구성원 AI 전문가로… 'AI와 일하기' 가속화",
+      "url": "https://n.news.naver.com/mnews/article/079/0004138497",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "과기정통부·국정원, '공공 클라우드 보안 인증' 일원화",
+      "url": "https://n.news.naver.com/mnews/article/293/0000083051",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"달 향한 첫걸음\"…우주항공청, 중학생 70명 '스페이스 캠프' 모집",
+      "url": "https://n.news.naver.com/mnews/article/277/0005751900",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "키아프, 정구호 크리에이티브 디렉터 선임",
+      "url": "https://n.news.naver.com/mnews/article/001/0016031371",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘50조’ 전 세계 큰손 집결…한국, 동북아 럭셔리 관광 1번지",
+      "url": "https://n.news.naver.com/mnews/article/003/0013897527",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "몽골·중국발 황사 전국 덮친다…미세먼지 '매우나쁨'·큰 일교차",
+      "url": "https://n.news.naver.com/mnews/article/421/0008898967",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "손 놓고 달리는 버스에도 승객은 “위험하다는 생각 들지 않아” 왜?",
+      "url": "https://n.news.naver.com/mnews/article/009/0005667934",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "파도파도 색다른 바다… ‘5월은 바다가는 달’ 캠페인 추진",
+      "url": "https://n.news.naver.com/mnews/article/005/0001844179",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "칼 세이건 '코스모스', 10년간 최다 판매 과학 도서 등극",
+      "url": "https://n.news.naver.com/mnews/article/421/0008900124",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨] 4월 중순에 '한파주의보'…내일 아침 반짝 추위",
+      "url": "https://n.news.naver.com/mnews/article/422/0000856903",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "시뻘건 황사, 내일 한국 덮친다…미세먼지 '매우나쁨' 경고",
+      "url": "https://n.news.naver.com/mnews/article/015/0005277077",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "“수입식물 속 보이지 않는 위협”…5년간 병해충 2만7000건 검출",
+      "url": "https://n.news.naver.com/mnews/article/016/0002632187",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "'모두의 창업' 도울 유망 벤처·스타트업 AI 솔루션 370개 모집",
+      "url": "https://n.news.naver.com/mnews/article/008/0005346497",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "하도급대금 깎고 이자도 미지급…수근종합건설 적발",
+      "url": "https://n.news.naver.com/mnews/article/029/0003022584",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "2번 연기 끝에 통과...신현송 한은총재 후보 '경과보고서' 채택",
+      "url": "https://n.news.naver.com/mnews/article/437/0000488141",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "부모 때보다 ‘쉬었음’ 청년 늘었다…첫 취직 시기도 늦어져",
+      "url": "https://n.news.naver.com/mnews/article/009/0005668467",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "2200명 참가한 ‘2026 롯데월드타워 스카이런’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006261523",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "녹색산업 외국진출 지원 협의체에 에너지·플랜트기업 추가 참여",
+      "url": "https://n.news.naver.com/mnews/article/001/0016030611",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "슬며시 다가가더니 ‘쿵’ 40번이나…보험사기 피해자, 60만원씩 더냈다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005668435",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
