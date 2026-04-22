@@ -287,7 +287,151 @@
       "title": "AI·북미 훈풍에…LS일렉, 실적 날았다",
       "url": "https://n.news.naver.com/mnews/article/011/0004612979",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "국내 최대 정보통신기술 전시회 개막…통신3사도 각축전",
+      "url": "https://n.news.naver.com/mnews/article/056/0012167331",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT, 엔비디아와 초거대 AI 협력…‘A.X K2’ 개발 박차",
+      "url": "https://n.news.naver.com/mnews/article/138/0002225423",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "희림·메가존클라우드, AI 기반 건축 법규 검토 시스템 개발",
+      "url": "https://n.news.naver.com/mnews/article/001/0016035478",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘덕테이프’의 정체는 오픈AI 신모델… “글자 새기고 캐릭터 복제까지”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003023004",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'방송 3법' 후속 조치 앞둔 방미통위, 공론의 장 만든다",
+      "url": "https://n.news.naver.com/mnews/article/421/0008904847",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AWS \"올해는 에이전트 AI의 해\"…데이터·AI 전략 공개",
+      "url": "https://n.news.naver.com/mnews/article/421/0008904996",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘보안 핵폭탄’ 앤트로픽 미토스에 누군가 무단 접속…자체 조사중",
+      "url": "https://n.news.naver.com/mnews/article/056/0012167323",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "다크패턴 개선·통합요금제 출시까지…통신 제도개선 8년 성과 공개",
+      "url": "https://n.news.naver.com/mnews/article/138/0002225467",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "관광벤처 100곳 선정…AI·K-컬처 전면에 포진",
+      "url": "https://n.news.naver.com/mnews/article/016/0002633538",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적",
+      "url": "https://n.news.naver.com/mnews/article/032/0003441426",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "'로잔 콩쿠르 2위' 염다연, 美 보스턴 발레단 정단원 입단",
+      "url": "https://n.news.naver.com/mnews/article/001/0016035371",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "박사급 제치고 황교익?…김승수 의원 \"문광연 전문성 짓밟았다\"",
+      "url": "https://n.news.naver.com/mnews/article/138/0002225401",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“아침마다 먹었더니 살 쭉 빠지고 콜레스테롤도 뚝”…의사들 강추하는 ‘이것’ [헬시타임]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004613453",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘땅콩 한 줌’ 매일 먹으면 우리 몸에 일어나는 일",
+      "url": "https://n.news.naver.com/mnews/article/145/0000023614",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[부산일보 오늘의 운세] 4월 23일(음 3월 7일)",
+      "url": "https://n.news.naver.com/mnews/article/082/0001377294",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[베이징 모터쇼 2026] \"3천만 차 시장 잡아라\"…글로벌 브랜드 격전장",
+      "url": "https://n.news.naver.com/mnews/article/629/0000493687",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "신한운용, 민간우주기업에 투자.. SOL 미국우주항공TOP10 상장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005511223",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "이재용이 공들인 삼성 하만, 인수 10년 만에 매출 2배",
+      "url": "https://n.news.naver.com/mnews/article/023/0003972360",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "소비자원, 결혼 성수기 대비 ‘소비자 피해예방주의보’ 발령",
+      "url": "https://n.news.naver.com/mnews/article/056/0012167229",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "국내 생산자물가 4년 만에 '최대폭' 상승…나프타 68% 폭등",
+      "url": "https://n.news.naver.com/mnews/article/015/0005277965",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "농협, 312억원 투입해 할인 행사…\"장바구니 부담 낮춘다\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016035971",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "홈플 익스프레스, 하림 품에? NS홈쇼핑 우선협상대상자 선정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005277905",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘조합원 사망’ 화물연대, BGF로지스와 교섭 착수…오늘 상견례",
+      "url": "https://n.news.naver.com/mnews/article/029/0003023051",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "KDI “석유 최고가격제, 3월 물가 0.8%p 낮춰”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003637554",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
