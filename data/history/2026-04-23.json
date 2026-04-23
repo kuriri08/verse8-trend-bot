@@ -143,7 +143,151 @@
       "title": "2월 출생아 수 7년 만에 최대…30대 출산이 견인",
       "url": "https://n.news.naver.com/mnews/article/586/0000127541",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "카카오, 카톡 '카나나 검색' 시범 운영…샵 검색 AI로 바뀐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006263713",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"美소비자 40%가 구매 과정서 AI 활용…AI 유입자 매출 더 높아\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016035074",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "오픈AI ‘이미지 2.0’ 공개…한글 텍스트 드디어 안 깨진다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003714406",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'보안 핵폭탄' 앤트로픽 미토스에 무단 접속…조사 착수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016035669",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "삼성SDS \"금융 AX 지원\"…금융 고객 로드맵 제시",
+      "url": "https://n.news.naver.com/mnews/article/003/0013902436",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "배경훈 부총리, 베트남 과기부총리 만나 협력 확대 논의",
+      "url": "https://n.news.naver.com/mnews/article/448/0000605957",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "POSTECH-삼성전자, 스마트폰 만으로 2D↔3D 전환 메타렌즈 공개",
+      "url": "https://n.news.naver.com/mnews/article/092/0002419785",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "류제명 \"피지컬AI에 3년 집중투자…앤스로픽 '글래스윙' 참여 타진\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005753458",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "JTBC·KBS 북중미월드컵 공동 중계...MBC·SBS 협상 결렬",
+      "url": "https://n.news.naver.com/mnews/article/092/0002419740",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "김기민, 붉은 테이블 위 '볼레로'…베자르 발레단 25년만에 서울 공연",
+      "url": "https://n.news.naver.com/mnews/article/277/0005753495",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘도 공기 탁해…남해안·제주 비[출근길 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012167090",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "내일 서쪽 중심 기온 크게 올라...서울 낮 기온 23도[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002344420",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "손으로 ‘이것’ 안 되면, 폐암일 수도… 뭐길래?",
+      "url": "https://n.news.naver.com/mnews/article/346/0000108584",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 4월 22일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006263044",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "광화문광장에 북한 석탑 모형 봉축탑 불 밝힌다…\"남북 화합 기원\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001350461",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"이동이 곧 휴식\"…현대차, VIP 의전 최적화 스타리아 리무진 공개",
+      "url": "https://n.news.naver.com/mnews/article/092/0002419792",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "경유값도 2천 원 돌파 코앞…나프타 68%·에틸렌 61% 껑충",
+      "url": "https://n.news.naver.com/mnews/article/057/0001945888",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성 하만 10년, 매출 7조→15.8조…'9조 베팅' 결실",
+      "url": "https://n.news.naver.com/mnews/article/030/0003420452",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "중동전쟁 여파를 딛고…한국경제 1분기 1.7% 성장 ‘서프라이즈’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005670111",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "LIG ‘해궁’ 첫 수출… 말레이 방산시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/081/0003637892",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "경기둔화 우려에 지갑 닫았다…소비자심리, 비상계엄 후 최대 감소폭",
+      "url": "https://n.news.naver.com/mnews/article/003/0013904267",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "HD현대重, 국내 최초 해외 쇄빙전용선 수주",
+      "url": "https://n.news.naver.com/mnews/article/018/0006263159",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "2040년 전력 수요 1.4배 증가… 원전 최대 6기 더 지어야 충당[짚어봅시다]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003023089",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성바이오, 1분기 매출 전년 동기 26% 증가… 노조는 오늘 첫 집회",
+      "url": "https://n.news.naver.com/mnews/article/023/0003972404",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
