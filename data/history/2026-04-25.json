@@ -143,7 +143,151 @@
       "title": "전국 창업도시 10곳에 인재·개발 등 패키지 지원.. 창업 대국민 오디션 우승시 10억원 상금",
       "url": "https://n.news.naver.com/mnews/article/023/0003972828",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "김민석 국무총리 \"붉은사막 500만장 판매 축하\"...K게임 지원 약속",
+      "url": "https://n.news.naver.com/mnews/article/092/0002420133",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "정부, AI 못 읽는 hwp 퇴출…개방형 hwpx로 전환",
+      "url": "https://n.news.naver.com/mnews/article/586/0000127740",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "오픈AI, ‘일하는 AI’ GPT-5.5 전격 공개…“코딩·리서치 스스로 척척”",
+      "url": "https://n.news.naver.com/mnews/article/003/0013907494",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "우주청-ETRI, 드론-로봇 택배시스템 제주서 실증…\"5년내 상용화\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002420047",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "한국 기술력·베트남 잠재력이 만났다…과학기술혁신 포럼 개최",
+      "url": "https://n.news.naver.com/mnews/article/008/0005349004",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "로마인 미라에서 '일리아스' 나왔다…어떻게 이런 일이",
+      "url": "https://n.news.naver.com/mnews/article/092/0002420138",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "동물도 아픔 느낀다…동물실험, AI가 대체할 수 있을까",
+      "url": "https://n.news.naver.com/mnews/article/584/0000037351",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "보안 철옹성 무너뜨린 ‘미토스’… AI가 연 ‘판도라의 상자’",
+      "url": "https://n.news.naver.com/mnews/article/243/0000096984",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 4월 24일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/030/0003421270",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "장한나 신임 사장 “예술의전당, 찾아와 머무는 ‘21세기형 문화공간’으로 만들 것”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004614307",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "도서관 더 가까워지고 더 붐볐다…전국 방문 2억3000만명",
+      "url": "https://n.news.naver.com/mnews/article/277/0005754441",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "춘향전의 중심 무대 광한루, 국보 지정 예고",
+      "url": "https://n.news.naver.com/mnews/article/052/0002345138",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘 낮과 밤 일교차 20도···중부지방 건조해 산불 조심",
+      "url": "https://n.news.naver.com/mnews/article/032/0003441852",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“‘빚투' 한국, 1929년 월가와 소름 끼칠 정도로 비슷”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003972959",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"오늘 서쪽 더워요\" 서울 26℃...건조함에 산불 위험 커져[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002345114",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“염증 없애는 효과”… 美 억만장자는 매일 ‘이것’ 먹는다",
+      "url": "https://n.news.naver.com/mnews/article/346/0000108738",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "5대 금융 1분기 순익 6.2조...호실적 배경은",
+      "url": "https://n.news.naver.com/mnews/article/011/0004614536",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "현대차그룹, 위례에 8조 ‘연구 허브’ 만든다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004614492",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "우리금융 1분기 순이익 6038억원 전년보다 2.1% 줄어",
+      "url": "https://n.news.naver.com/mnews/article/277/0005754506",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "쿠팡 \"미국 로비로 한국 정부 압박?...전혀 사실무근\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005349036",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "이성훈 비트플래닛 대표 ‘비트코인 2026’ 국내유일 연사",
+      "url": "https://n.news.naver.com/mnews/article/016/0002634818",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "현대차, ‘아이오닉’ 앞세워 중국 시장 재공략… 中 협업 ‘아이오닉 V’ 등 20종 투입",
+      "url": "https://n.news.naver.com/mnews/article/020/0003715115",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "SK하이닉스 축포 쏜 날… 삼성전자 노조 4만명 ‘성과급 집회’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001845131",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘중동 긴장’ 코스피 주춤…코스닥은 25년 만 1,200대 마감",
+      "url": "https://n.news.naver.com/mnews/article/056/0012169213",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
