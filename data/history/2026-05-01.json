@@ -287,7 +287,145 @@
       "title": "금감원, 한화솔루션 유상증자 또 제동...정정신고서 요구",
       "url": "https://n.news.naver.com/mnews/article/366/0001161287",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"네이버 광고 매출, AI 기여도 50% 이상…하반기 신규 수익원 확보\"[컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005351576",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'5억원'에 공포영화 '아파트' 뚝딱…AI로 제작비 80%↓",
+      "url": "https://n.news.naver.com/mnews/article/008/0005351758",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "일반인은 구분하기 어려울 만큼 정교해진 챗GPT ‘이미지 2.0’",
+      "url": "https://n.news.naver.com/mnews/article/037/0000038086",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT, 성수동 ‘T팩토리’ 오늘 리뉴얼 오픈",
+      "url": "https://n.news.naver.com/mnews/article/018/0006270929",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“진짜 대박이다” 요즘 너도 나도 해본다는 ‘이것’…구글 잡는다는 ‘초격차 퀄리티’ 어떻길래",
+      "url": "https://n.news.naver.com/mnews/article/011/0004616702",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI 시대에 채용 8배 폭증…BCG·네이버·크래프톤도 찾는 ‘FDE’가 뭐길래",
+      "url": "https://n.news.naver.com/mnews/article/011/0004616697",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"카메라 구멍도 없앤다\"…삼성 폴드8·와이드 폴드 '진정한 대화면' 연다",
+      "url": "https://n.news.naver.com/mnews/article/003/0013921575",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘뉴토끼’ 문닫아도 ‘제2·제3 뉴토끼’ 등장…웹툰작가들 웃지 못하는 이유 [아이티라떼]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005674194",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "SF소설 '프로젝트 헤일메리' 독주…6주째 1위[베스트셀러]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016054143",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘거꾸로 뒤집은 그림’ 독일 화가 바젤리츠 88세로 별세",
+      "url": "https://n.news.naver.com/mnews/article/020/0003716700",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "메르세데스-벤츠, 서울숲에 ‘그린플러스 도시숲’ 조성…도심 녹지 확대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005674204",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "국립대구박물관장에 김혜원…신설 박물관기획관은 장은정",
+      "url": "https://n.news.naver.com/mnews/article/001/0016054174",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“가족 모두 혜택 누리세요” 현대차, 멤버십 서비스에 가족 단위 회원제 도입",
+      "url": "https://n.news.naver.com/mnews/article/016/0002638188",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "황금연휴 첫 날, 낮 최고 26도 '포근'…큰 일교차 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/437/0000489714",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"딸이 그곳에선 평안하길\"…악뮤 노래에 '사연' 쏟아진 이유 [김수영의 연계소문]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005282195",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성바이오로직스 노조, 창사 이래 첫 파업 돌입",
+      "url": "https://n.news.naver.com/mnews/article/052/0002347766",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "“왕복 112만원 내세요”…유류할증료 오늘부터 역대 최고 단계",
+      "url": "https://n.news.naver.com/mnews/article/028/0002803349",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "〈LG그룹④〉AI 반도체 영역 파고드는 LG이노텍… 카메라모듈·반도체기판 투톱 전략[K-TECH 글로벌 리더스]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003716558",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "BNK금융, 1분기 순이익 2114억원…주당 150원 배당결의",
+      "url": "https://n.news.naver.com/mnews/article/374/0000507717",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "LG에너지솔루션, BMW에 10조원 규모 배터리 공급",
+      "url": "https://n.news.naver.com/mnews/article/079/0004142768",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"자기만 살겠다고\" 이 대통령 지적에도...삼전 노조위원장 \"LG에 하는 이야기\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005352157",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "호텔 빙수 어디까지 가나…'애망빙 넘어 자개 디저트' 등장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005515627",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "김범석 동생이 '결정적'...반발한 쿠팡 '행정소송' 예고[자막뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002347389",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
