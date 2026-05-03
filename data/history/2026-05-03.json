@@ -419,7 +419,151 @@
       "title": "“테슬라 사고싶은데” vs “보조금 주지 말자”…'한국판 IRA' 주목",
       "url": "https://n.news.naver.com/mnews/article/119/0003086819",
       "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "오태석 우주청장 \"차중 2호 성공, 뉴스페이스 시대 이정표\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0013923704",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "미 국방부, 앤트로픽 빼고 오픈AI 등 7개 기업과 기밀 협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/032/0003443418",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'가성비' 맥미니 사라졌다…사실상 200달러 인상",
+      "url": "https://n.news.naver.com/mnews/article/586/0000128277",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "감기 바이러스가 유방암 폐 전이 억제?…英 연구진 발표",
+      "url": "https://n.news.naver.com/mnews/article/022/0004125398",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "검색 상단 믿었는데 악성코드 감염…카카오톡 사칭 560건 확인",
+      "url": "https://n.news.naver.com/mnews/article/055/0001353127",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SK브로드밴드, '대국민 안전보건 문화확산 공모전' 진행",
+      "url": "https://n.news.naver.com/mnews/article/277/0005757819",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "휴머노이드 ETF에선 미국이 중국 이겼다[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005757816",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "주판 쓰다 스마트폰 쥔 격…세상 뒤바꿀 '마법의 연산'[AI 다음 양자②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0013922366",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "문체부 장관 “한예종 지방 이전 검토한 바 없다”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003024717",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "수묵산수 현대화 이끈 운산 조평휘 화백 별세…향년 94세",
+      "url": "https://n.news.naver.com/mnews/article/001/0016056416",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "'굉음 뿜는 타이어, 매케한 연기'…보령 달리는 토요타 GR86[르포]",
+      "url": "https://n.news.naver.com/mnews/article/417/0001141532",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "내일 오전까지 곳곳 봄비...어린이날 '화창한 봄'[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002348282",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "구석기 유적지가 놀이터로…가족 관광객으로 북적인 연천군 전곡리",
+      "url": "https://n.news.naver.com/mnews/article/009/0005674658",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "조선 왕실 최고 의례 종묘대제 봉행[뉴시스Pic]",
+      "url": "https://n.news.naver.com/mnews/article/003/0013923624",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨/XR] 4일 오전에 비 '뚝'…어린이날 '포근'",
+      "url": "https://n.news.naver.com/mnews/article/055/0001353228",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "이걸 누가 사나했는데...수박·피자·삽겹살 1인분씩 잘라 파는 이유",
+      "url": "https://n.news.naver.com/mnews/article/009/0005674817",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "韓 유조선, 홍해 또 통과…중동전쟁 이후 두번째",
+      "url": "https://n.news.naver.com/mnews/article/018/0006272263",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "K뷰티 에이피알, 미 타임 ‘세계 영향력 100대 기업’…국내 유일",
+      "url": "https://n.news.naver.com/mnews/article/056/0012174023",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "가상자산 시세조종 꼼짝마 금감원, AI 초단위 감시 구축",
+      "url": "https://n.news.naver.com/mnews/article/009/0005674720",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "정부, 범부처 공조로 불법 외환거래 6000억 적발",
+      "url": "https://n.news.naver.com/mnews/article/003/0013923081",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "다주택자 양도세 중과 시행 임박…4월 증여·직거래 급증",
+      "url": "https://n.news.naver.com/mnews/article/055/0001353110",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "국내증시 '시총 6천조' 시대…'1조 클럽' 사상 첫 400곳 넘어",
+      "url": "https://n.news.naver.com/mnews/article/055/0001353182",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "주유소 기름값 5주 연속 ↑…평균 2천 원대",
+      "url": "https://n.news.naver.com/mnews/article/056/0012173899",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "속도 내는 국민성장펀드…업스테이지에 1000억 직접투자 등 5건 승인",
+      "url": "https://n.news.naver.com/mnews/article/016/0002638485",
+      "collected_at": "21:00"
     }
   ],
-  "naver_last_collected": "15:00"
+  "naver_last_collected": "21:00"
 }
