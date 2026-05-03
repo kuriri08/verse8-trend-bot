@@ -143,7 +143,145 @@
       "title": "4월 ‘30% 폭등’ 코스피, 7000선 문턱서 만난 ‘5월의 벽’…과열 vs 기회",
       "url": "https://n.news.naver.com/mnews/article/022/0004125196",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘K-위성’ 차중 2호, 내일 우주로…4년 지연 끝 발사",
+      "url": "https://n.news.naver.com/mnews/article/016/0002638340",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘AI 에이전트’ 인기덕?…애플 맥미니 사실상 30만원 인상",
+      "url": "https://n.news.naver.com/mnews/article/005/0001846670",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“장비 전부 바꿔야 하나”… ‘미토스 쇼크’에 금융권 보안 고심",
+      "url": "https://n.news.naver.com/mnews/article/366/0001161438",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "[인터뷰] “치매 신약 효과 없다? ‘평균의 함정’이 만든 착시”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001161502",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "200만원 넣으면 월 5천원…4% 금리 통장 ‘우르르’",
+      "url": "https://n.news.naver.com/mnews/article/092/0002421132",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“화웨이, AI칩 매출 60% 급증 전망”…中 수요에 ‘엔비디아 공백’ 파고든다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006272200",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "유럽 최대 AI 기업도 미국에 의존…'소버린 AI'는 가능한가",
+      "url": "https://n.news.naver.com/mnews/article/092/0002421131",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "내일, 전국에 비…낮에도 서늘[뉴스5 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012173929",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "1m 꼬치 굽고 원시인과 ‘우가우가’...주먹도끼가 이어준 시간여행",
+      "url": "https://n.news.naver.com/mnews/article/666/0000105596",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "최휘영 “한예종 지방 이전 검토한 적 없다”…논란 진화",
+      "url": "https://n.news.naver.com/mnews/article/025/0003520600",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "고속도로 동물사고 5~6월 집중…“새벽 운전 특히 위험”",
+      "url": "https://n.news.naver.com/mnews/article/662/0000094340",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "수도권 등 초미세먼지 나쁨…일요일 전국 비[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/055/0001353015",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 비바람 불며 쌀쌀...모레까지 이어져[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002348063",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "신발 신어도 절반이 맨발...\"뒤꿈치 보호대냐\" 샤넬 샌들 어땠길래",
+      "url": "https://n.news.naver.com/mnews/article/008/0005352250",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "내일 전국 거센 비바람…한낮에도 종일 서늘[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/422/0000860938",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"3000만원씩 달라\"…삼바 직원 2800명 동시에 연차 썼다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005282359",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"석유 시장 재고 감소로 한 달 뒤면 위기 닥칠 것\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002347929",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "유가는 폭등했는데…'석유 공룡' 순이익은 반토막 수준",
+      "url": "https://n.news.naver.com/mnews/article/015/0005282358",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "하이닉스 성과급 잔치에…성과급 구조 논란?",
+      "url": "https://n.news.naver.com/mnews/article/449/0000343815",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼바 노사 평행선...LGU+ 노조, 삼전에 \"비겁해, 사과하라\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002348051",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "C-브랜드의 습격…커피 천하에 ‘밀크티’ 섞었다 [푸드360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002638336",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "버핏 후계 버크셔 CEO \"행동나설 시장 혼란 기회 찾아올 것\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001496565",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "7000 향해 질주하는 코스피…“5월에 팔고 떠나라” 통할까",
+      "url": "https://n.news.naver.com/mnews/article/022/0004125268",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
