@@ -143,7 +143,151 @@
       "title": "4월 취업자 증가폭 7만명대 급감… 16개월 만에 최소",
       "url": "https://n.news.naver.com/mnews/article/081/0003643289",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "컴투스홀딩스, 신작 출시로 실적향상 꾀한다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000047117",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "연구비 1억여원 유흥업소 사용 적발된 출연연 연구원…해임 통보",
+      "url": "https://n.news.naver.com/mnews/article/001/0016075816",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "엔씨 \"지난해 인수한 리후후, 연간 최소 20개 게임 출시\"[IR]",
+      "url": "https://n.news.naver.com/mnews/article/421/0008941301",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"K스페이스 잠재력 충분…틈새시장 공략 해야\"[2026 미래기업포럼]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005762346",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“한국 없었으면 우리도 없었다”…반도체 급으로 잘나가더니 ‘잭팟’ 터졌다는데",
+      "url": "https://n.news.naver.com/mnews/article/011/0004620636",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "대한전선, 생산부터 인증까지 ‘원스톱’… 해저케이블 밸류체인 완성",
+      "url": "https://n.news.naver.com/mnews/article/081/0003643574",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "갤럭시Z폴드 와이드, 메인 카메라 S26급 탑재[모닝폰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006280669",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "폴더블·AI, 스마트폰 교체 주요인 아니다…이유 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/092/0002422635",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "서쪽 중심 한여름 더위 찾아와…낮 기온 30도 안팎[라인W 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012180636",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "낮 최고 31도 초여름 더위…오후 한때 소나기[오늘날씨]",
+      "url": "https://n.news.naver.com/mnews/article/003/0013943368",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "서울 낮 31도 여름 더위…오후 남부 소나기[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/422/0000864564",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"더 이상 변방 아닌 한국 영화\"‥박찬욱 칸 심사위원장 맡았다",
+      "url": "https://n.news.naver.com/mnews/article/214/0001498769",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“주말에는 KTX 타고 강릉바다 보러가요”…주한 외국인 숙박 여행지 1위 ‘강원’",
+      "url": "https://n.news.naver.com/mnews/article/087/0001193061",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "대원음악상 대상에 진은숙…연주상 선우예권",
+      "url": "https://n.news.naver.com/mnews/article/021/0002790871",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 5월 13일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006279527",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "서쪽 여름 더위, '서울 31도'…호남 소나기[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/448/0000611297",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "'보조금 기준' 7월 개편…수입 전기차 비싸지나",
+      "url": "https://n.news.naver.com/mnews/article/055/0001355973",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성전자 노사 사후조정 협상도 결렬...다시 총파업 수순(종합)",
+      "url": "https://n.news.naver.com/mnews/article/031/0001028187",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "압구정·청담 복합개발 본격화…갤러리아 재건립·역세권 활성화 통과",
+      "url": "https://n.news.naver.com/mnews/article/215/0001251981",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "통합 대한항공 12월17일 출범…5년6개월 만",
+      "url": "https://n.news.naver.com/mnews/article/277/0005762387",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "HD현대, 1분기 영업익 2조8438억원…분기 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/016/0002642932",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "신세계 정용진, 한남동 단독주택 255억 원에 매각",
+      "url": "https://n.news.naver.com/mnews/article/055/0001356019",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "4월 PPI 쇼크에도 S&P500 최고치 경신[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005762468",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "지역펀드 청산 수익률 봤더니…\"최근 5년 11.6%\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0013943458",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
