@@ -137,7 +137,151 @@
       "title": "이재용 공개 사과에 교섭대표 교체까지…삼성 '총파업 저지' 총력",
       "url": "https://n.news.naver.com/mnews/article/648/0000047200",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "1분기 성적 나온 제약바이오…'글로벌 강자' 웃다",
+      "url": "https://n.news.naver.com/mnews/article/003/0013949183",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "맥이 가장 안전하다더니…단 5일 만에 애플 철통보안 뚫은 AI",
+      "url": "https://n.news.naver.com/mnews/article/277/0005763761",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“휴머노이드 손끝 감각 구현”…에이딘로보틱스, 초소형 촉각센서로 글로벌 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006283382",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "파리바게뜨, KT 고객 1만원 이상 구매 시 4000원 할인",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423025",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "파파존스, '마마치킨' 가맹사업 전략 재편",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423024",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "스타벅스, 인도에 첫 법인 사무소 연다…\"직무 내재화·비용 절감 목적\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423022",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“고장날 때까지”...피겨AI, 휴머노이드 77시간 연속 작업",
+      "url": "https://n.news.naver.com/mnews/article/009/0005681004",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "6개 칩을 하나로…ST, 턴키 공급으로 휴머노이드 '원가 장벽' 허문다",
+      "url": "https://n.news.naver.com/mnews/article/030/0003428253",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘도 때 이른 더위 이어져…자외선·오존 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/422/0000865421",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "일요일 전국 낮 30도 이상…주말 무더위 기승[내일날씨]",
+      "url": "https://n.news.naver.com/mnews/article/003/0013948896",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "외계인 연구 촉발한 질문… “당신들 모두 어디 있는가”[책의 향기]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003720041",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 30도 넘는 여름 더위…내일도 고온현상",
+      "url": "https://n.news.naver.com/mnews/article/422/0000865468",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "항암제도 안 듣는 전립선암, 치매약이 치료제?…“한 달만에 병변 72% 줄어들어”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002644181",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "아버지가 그렇게 창피했건만… [주말 詩 한편]",
+      "url": "https://n.news.naver.com/mnews/article/665/0000007382",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "생과일 아니고 착즙원액?…커피전문점 수박주스 대해부[맛잘알X파일]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005763837",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘왕과 사는 남자’ 그곳, 오늘과 15년 전으로의 여행",
+      "url": "https://n.news.naver.com/mnews/article/036/0000053614",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성 \"파업 참여 설득 시 폭행·협박 사용해선 안 돼\"",
+      "url": "https://n.news.naver.com/mnews/article/050/0000106212",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "홈플러스 “MBK, 투자금 2.5조 전액 소각…회수 사실 없어”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003091080",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "이재용 “삼성은 한 가족”…총파업 앞두고 노조에 호소",
+      "url": "https://n.news.naver.com/mnews/article/022/0004128560",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "김영훈 노동부 장관, 노조 이어 주말에 삼성 경영진과 회동",
+      "url": "https://n.news.naver.com/mnews/article/014/0005522257",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "숨 가쁜 삼성전자, 갈등 수습에 전방위 총력",
+      "url": "https://n.news.naver.com/mnews/article/243/0000097920",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "주유소 기름값 7주 연속 상승…서울 휘발유 2050원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/277/0005763711",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "안 쓰고 싶지만‥정부 '파업중단권' 놓고 고민",
+      "url": "https://n.news.naver.com/mnews/article/214/0001499312",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "롯데마트 PB ‘오늘좋은’ 4개 품목, 국제 품평회서 수상",
+      "url": "https://n.news.naver.com/mnews/article/011/0004621530",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
