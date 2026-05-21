@@ -143,7 +143,151 @@
       "title": "\"서울시, 국토부와 12번 현장회의에도 '철근 누락' 보고 안했다\"",
       "url": "https://n.news.naver.com/mnews/article/437/0000492137",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "노사 갈등 격화되는 카카오, 사상 첫 파업 '초읽기'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000500871",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "원전 '드론 테러' 막아라…새울원전 4호기 첫 공개도",
+      "url": "https://n.news.naver.com/mnews/article/422/0000866874",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "안경 쓰자 길 안내부터 실시간 번역...삼성전자의 '게임 체인저' [지금이뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002355460",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "강남역 물바다 재현한 실험장…AI 홍수예보 진화[가보니]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016090275",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "업스테이지 “하정우 주식, 파킹 아닌 베스팅 계약상 자동 반환”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001165715",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "구글, 4배 빠른 ‘제미나이 3.5 플래시’ 출시…AI 에이전트·영상 모델도 공개",
+      "url": "https://n.news.naver.com/mnews/article/366/0001165686",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "‘AI’로 바이러스 조립원리 완벽 구현…차세대 약물전달기술 새 이정표 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002646247",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"AI 시대, 컴퓨팅은 필요한 만큼만\"…델이 제시한 '분리형 인프라'",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423652",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 비 점차 그쳐…한풀 꺾인 더위에 낮 최고 26도(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0008957480",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "방미통위 \"21세기 대군부인 제작비 지원 없었다\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423564",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "문체부, 22일부터 공연 1만원 할인권 24만장 푼다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006286471",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "대전일보 오늘의 운세 양력 5월 21일, 음력 4월 5일",
+      "url": "https://n.news.naver.com/mnews/article/656/0000176835",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "여름 앞두고 '널뛰기'...더위 꺾이니 강한 비바람 몰아친다[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002355865",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘 전국 비바람…중부·남해안 호우[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/057/0001949913",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "이재명표 '관광 새마을운동' 시동…문체부, 지역관광 쇄신 착수",
+      "url": "https://n.news.naver.com/mnews/article/421/0008955015",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "발레 서민준, 유스 아메리카 그랑프리 받았다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005289346",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "[속보] 삼성전자 노사, 임금협상 재개…노동장관 직접 중재",
+      "url": "https://n.news.naver.com/mnews/article/009/0005682834",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "국토부 \"근본적인 철도안전 대책 하반기 마련\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016090129",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "“기름값 무섭네”…4월 국내 전기차 판매 3만 9000대, 140% 폭증",
+      "url": "https://n.news.naver.com/mnews/article/082/0001381720",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "소비자단체 \"배달 플랫폼 무료배달 경쟁…소비자 부담 증가 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0013957839",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "엔비디아 분기 순이익 583억 달러…젠슨 황 “AI 수요 포물선처럼 폭증”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005683043",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "한화투자증권 \"두나무 주식 5천978억원에 추가취득\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016089609",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성전자, DS에 특별성과급 자사주 지급…적자사업부 차등 지급은 1년 유예",
+      "url": "https://n.news.naver.com/mnews/article/081/0003645578",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "총파업 한시간반 앞두고 노사 합의…삼성전자 \"심려 끼쳐 깊이 사죄\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004149154",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
