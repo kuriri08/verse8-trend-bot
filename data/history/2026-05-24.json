@@ -143,7 +143,151 @@
       "title": "“이 뉴스 나오면 비트코인 급등”…美 의원들 왜?",
       "url": "https://n.news.naver.com/mnews/article/018/0006288868",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "시청자위원회 매달 열라는데…유료방송 \"안건·보고 부담\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0008963110",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"스타벅스에 있으면 산다\"…입점 스낵 브랜드 판매 급증",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423987",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'공동 파업 위기' 카카오⋯27일 조정 분수령",
+      "url": "https://n.news.naver.com/mnews/article/031/0001030669",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"동료의 거센 비판 받은 논문이 영향력 높다\"",
+      "url": "https://n.news.naver.com/mnews/article/584/0000037746",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "기아차부터 애니까지…크래프톤, 장르 파괴 컬래버로 ‘배그’ 수명 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004623988",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"수학계 노벨상 '필즈상' 2030년 인간·AI 공동 수상할 수도\"",
+      "url": "https://n.news.naver.com/mnews/article/584/0000037745",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI 시대 '리타이머' 뜬다…신호 심폐소생술 핵심 부품",
+      "url": "https://n.news.naver.com/mnews/article/092/0002423986",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI 시대 새 격전지 스마트글래스… 삼성도 출사표",
+      "url": "https://n.news.naver.com/mnews/article/029/0003028187",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[속보] 나홍진 ‘호프’, 칸 영화제 수상 불발…황금종려상은 ‘피오르드’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003525336",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "위고비·마운자로 암 치료 효과까지...“전이 확률 더 낮아”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004623845",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 대부분 약한 비…부처님 오신 날은 맑음[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/055/0001358565",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "부처님 오신 날 '초여름 더위'…대체공휴일 남부·제주 비[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/448/0000613956",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "제주 내일 오전~낮 ‘약한 비·빗방울’…남부 지역 자외선 지수 ‘위험’[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012186669",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "정치적 체면·책임 회피… 미국은 왜 전쟁을 멈추지 못했는가",
+      "url": "https://n.news.naver.com/mnews/article/022/0004130161",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“냉장고에 있다면 당장 버려라”…암 위험 41% 높이는 ‘이 성분’ 정체가 [헬시타임]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004623994",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“식스팩보다 ‘이런 체형’ 더 끌린다”…男女 가장 매력적인 몸은?",
+      "url": "https://n.news.naver.com/mnews/article/296/0000100825",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼전·닉스 등 ‘톱5’ 수출, 전체 증가분의 83% 차지…반도체 독주 심화",
+      "url": "https://n.news.naver.com/mnews/article/016/0002647498",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "월 317만원 국민연금 수령자 나왔다…비결은 뭘까?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000511937",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성 노사 잠정합의안 투표 이틀째 투표율 80%…5만명 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005767099",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"돈 있으면 무조건 넣는다\"…'국평 30억' 배짱 분양에도 '북적' [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005290458",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "당국도 놀란 '국민참여형 성장펀드' 조기 완판...‘상생 모델’ vs ‘수익률은?’",
+      "url": "https://n.news.naver.com/mnews/article/123/0002383570",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "국민연금, 국내주식 비중 늘릴까…28일 기금위에서 결정",
+      "url": "https://n.news.naver.com/mnews/article/422/0000867689",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "한국 유조선 또 홍해 우회…호르무즈 봉쇄 뒤 다섯번째",
+      "url": "https://n.news.naver.com/mnews/article/014/0005525533",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "빌라시장 숨통 틔울까…정부, 수도권 매입임대 6만6000호 공급",
+      "url": "https://n.news.naver.com/mnews/article/032/0003447508",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
