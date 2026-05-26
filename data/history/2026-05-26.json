@@ -281,7 +281,151 @@
       "title": "다이소도 아닌데 1리터 막걸리 1000원에…어디야?",
       "url": "https://n.news.naver.com/mnews/article/374/0000512095",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "NHN클라우드 ‘팩토리X’ 출범… AI 인프라 기업 선언",
+      "url": "https://n.news.naver.com/mnews/article/021/0002793561",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"노벨상은 고사하고\"…'세계 10대 과학상'에 한국인이 없다, 왜?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005362814",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI안전연구소장 \"에이전트 AI 위험 평가·국제 공조 필수\"[AI픽]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016098904",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "카카오, 이번주 파업 분수령… 5개 법인 공공쟁의권 확보 가능성",
+      "url": "https://n.news.naver.com/mnews/article/014/0005526035",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "방미통위, 시·청각 장애인 맞춤형 TV 3만 5천대 보급",
+      "url": "https://n.news.naver.com/mnews/article/052/0002357883",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "우주청, 900억 원 들여 민·군 겸용 항공엔진 개발 착수",
+      "url": "https://n.news.naver.com/mnews/article/421/0008966270",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "저궤도위성 등 美우수기술 기업 10곳 뽑아 ‘우주 ETF’ 상장",
+      "url": "https://n.news.naver.com/mnews/article/021/0002793438",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"이건 꼭 사야 해\"…오픈런 부를 카카오 '야구 굿즈' 정체",
+      "url": "https://n.news.naver.com/mnews/article/015/0005291101",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "제주 오전에만 130㎜ 물폭탄…오후엔 전국 확대, 퇴근길 우산 챙기세요",
+      "url": "https://n.news.naver.com/mnews/article/421/0008966024",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "BTS, AMA 오프닝 열고 대상까지…라스베이거스서 드높인 K팝 위상 [종합]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005291153",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘케데헌’ OST ‘골든’, AMA 올해의 노래 수상 쾌거",
+      "url": "https://n.news.naver.com/mnews/article/119/0003094244",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“역사왜곡 자행 ‘21세기 대군부인’ 폐기하라”…청원 5만명 돌파",
+      "url": "https://n.news.naver.com/mnews/article/666/0000108542",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"미디어아트 작가 찾는다\"…현대차그룹, 'VH 어워드' 공모",
+      "url": "https://n.news.naver.com/mnews/article/003/0013966545",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "KGM, 가정의 달 맞아 임직원 가족 평택 본사 초청…\"믿음과 지지가 성장의 힘\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005526408",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 비바람…제주 250㎜ 이상[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/448/0000614322",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "불규칙한 식사, 우울증 위험 1.5배 높인다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005767594",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"스벅 '탱크데이' 사전 모의 고의성 특정 어려워\"",
+      "url": "https://n.news.naver.com/mnews/article/138/0002228891",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "AI발 메모리 호황 속 경고음…“폭락 사이클 반복 가능”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012187706",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "단상 올라 사과한 정용진…\"모든 책임은 저에게\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001359081",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성전자, 내달 중 챗GPT 등 생성형 AI 사내 활용 허용",
+      "url": "https://n.news.naver.com/mnews/article/001/0016099027",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "SK해운·동국제강 등 주채무계열 편입",
+      "url": "https://n.news.naver.com/mnews/article/011/0004624548",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "'부글부글' 非반도체 삼성노조, '투표절차 중지' 가처분 신청 접수",
+      "url": "https://n.news.naver.com/mnews/article/008/0005362619",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "스페이스X 상장 전에 베팅?…코인거래소에 수천억 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/421/0008966294",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "검역본부 \"중국인 여행객 반입 순대·소시지서 구제역 유전자…전량 폐기\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0013967012",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
