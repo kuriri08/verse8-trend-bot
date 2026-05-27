@@ -143,7 +143,145 @@
       "title": "2030년까지 도시형생활주택 등 ‘非아파트 11만 가구’ 신규 공급",
       "url": "https://n.news.naver.com/mnews/article/023/0003978594",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "NHN클라우드 \"올해 AI 매출 비중 38%\"…'팩토리X' 앞세워 흑자전환 자신[현장]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003094365",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "지니언스, 양자내성암호 기반 기술 개발 임박…양자 보안 시장 진출",
+      "url": "https://n.news.naver.com/mnews/article/011/0004624784",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"우주보험시장 활성화 위해선 시장 수요 선행돼야\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002424184",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "카카오 노사 오늘 2차 조정…공동파업 기로",
+      "url": "https://n.news.naver.com/mnews/article/055/0001359329",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "앤트로픽, 서울 오피스 연다…한국 시장 공략 강화[AI픽]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016100881",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "IBS, 'AI·태아·오가노이드 등 의식 존재 단정 어려워...충분한 검토 필요'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003431471",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "마이크론도 시총 '1조 달러' 돌파…주가 20% 폭등",
+      "url": "https://n.news.naver.com/mnews/article/092/0002424226",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"검색 결과 상단도 잘 봐야\"…네카오, 피싱 사기 ‘주의보’",
+      "url": "https://n.news.naver.com/mnews/article/092/0002424224",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "BTS, 레이디 가가·저스틴 비버 제쳤다…AMA ‘올해의 아티스트’ 수상",
+      "url": "https://n.news.naver.com/mnews/article/081/0003646851",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "수도권에도 본격적인 비...밤사이 비바람 강해져[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002358173",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "은평성모병원, ‘암센터’ 중심 암 치료 역량 고도화",
+      "url": "https://n.news.naver.com/mnews/article/020/0003722336",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "23회째 맞은 평창대관령음악제… 올해 주제는 '계승과 혁신'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005291208",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "내일 전국 흐리고 비 이어져…천둥·번개 주의",
+      "url": "https://n.news.naver.com/mnews/article/448/0000614377",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "중국 저가車에 마진 눌렸다…현대차·폭스바겐도 앞다퉈 '원가 전쟁'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005363050",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘 오후까지 전국 비...낮 더위 주춤, 서울 24℃[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002358326",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "비트코인 회복세에도 공급 부담…“8만 달러 쉽지 않다”[코인뉴스]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003094261",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "은행 원화대출 연체율 0.56% 전월比 '개선'…대기업 연체율 증가세 지속",
+      "url": "https://n.news.naver.com/mnews/article/421/0008965015",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "S&P500·나스닥, 메모리주 급등에 최고치 마감",
+      "url": "https://n.news.naver.com/mnews/article/214/0001501478",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "KB운용, 'RISE 삼전·하닉 단일종목 레버리지' 출시",
+      "url": "https://n.news.naver.com/mnews/article/003/0013969156",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "'폰 제출 거부'에 고의성 규명 실패?…스타벅스 조사 결과에 비판 여론",
+      "url": "https://n.news.naver.com/mnews/article/003/0013966974",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "“슬슬 숨통 트이네” 기업 체감경기, 3년7개월 만에 최고 ‘수급 개선’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003028628",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "“모두 제 잘못” 정용진 세번 고개 숙였다…스벅 사태 대국민 사과",
+      "url": "https://n.news.naver.com/mnews/article/025/0003525750",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "'억대 성과급' 삼성 합의안 투표 오늘 마감...'노노갈등' 과제로",
+      "url": "https://n.news.naver.com/mnews/article/052/0002358327",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
