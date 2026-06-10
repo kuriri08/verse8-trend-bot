@@ -287,7 +287,151 @@
       "title": "[단독] 레미콘 노사, 임단협 잠정 합의…운송단가 4,200원 인상",
       "url": "https://n.news.naver.com/mnews/article/215/0001254863",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI 시장 판도 바꿀 ‘미래 유니콘’ 키운다…올해 15개 기업 최종 선정",
+      "url": "https://n.news.naver.com/mnews/article/011/0004629625",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SK텔레콤, 日 NTT와 AI 생태계 확장 ‘맞손’… 한일 경제연대 가속",
+      "url": "https://n.news.naver.com/mnews/article/366/0001170697",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "삼성SDS, 스타트업 맞손… AI·클라우드 보안 강화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001170684",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "통신망 마비돼도 소방대원 먼저…소방청, 우선접속 첫 도입",
+      "url": "https://n.news.naver.com/mnews/article/421/0008995674",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "현대ENG, K-핵융합로 R&D 참여…핵융합에너지硏과 협약",
+      "url": "https://n.news.naver.com/mnews/article/003/0013998537",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "KAIST, 사람처럼 판단하는 AI기술 개발",
+      "url": "https://n.news.naver.com/mnews/article/016/0002654620",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"AI보안, 산업 인프라 문제\"…네이버 D2SF, 에임인텔리전스에 투자",
+      "url": "https://n.news.naver.com/mnews/article/374/0000515171",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "일반인도 '미토스' 쓴다…앤스로픽, 안전장치 단 '페이블5' 출시",
+      "url": "https://n.news.naver.com/mnews/article/015/0005296970",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2027년형 폴스타4 출시…최대 200만원 가격 인하",
+      "url": "https://n.news.naver.com/mnews/article/008/0005369730",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "낮 최고 30도‥저녁까지 중부 곳곳 비",
+      "url": "https://n.news.naver.com/mnews/article/214/0001504541",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "GM, 미국서 에너지 생태계 확장 전략 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006301939",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "조성진, '10주년' 롯데콘서트홀 상주음악가 됐다…\"다음달 무대\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005369899",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "아이비, 미국 브로드웨이 데뷔…뮤지컬 ‘시카고’ 록시 역 발탁",
+      "url": "https://n.news.naver.com/mnews/article/056/0012197342",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "바람길이자 미래 희망길 ‘DMZ’를 만나다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004629626",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"같이 앉아 대화도 힘들다\"⋯결혼 후 드러난 남편 입냄새, 지적하자 \"예민하네\" [헬스+]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001034127",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[단독] 1박 23만원→807만원…BTS 부산 콘서트날, 34배 뛴 숙소",
+      "url": "https://n.news.naver.com/mnews/article/421/0008996118",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "카카오 노조, 창사 '첫 부분파업' 돌입…노사 갈등 정면 충돌",
+      "url": "https://n.news.naver.com/mnews/article/015/0005297114",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "코스피·코스닥 ‘매수 사이드카’…환율 진정세",
+      "url": "https://n.news.naver.com/mnews/article/056/0012196504",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "TSMC \"인플레로 비용 상승…반도체 가격 인상 가능성 배제 안해\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016130242",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "K팝 팬심 악용한 불공정 약관…SM·JYP·YG 등 연내 자진 시정키로",
+      "url": "https://n.news.naver.com/mnews/article/586/0000131188",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"이제는 '메드텍'도 AI다\" 삼성전자, 글로벌 의료기술·헬스케어 생태계 확장",
+      "url": "https://n.news.naver.com/mnews/article/003/0013997544",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "레미콘 차량 8천 대 멈췄다…건설 현장 ‘비상’",
+      "url": "https://n.news.naver.com/mnews/article/449/0000348502",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "5000만원 이하 밀린 빚 '기계적 연장' 없앤다…5년 지나면 소멸시효",
+      "url": "https://n.news.naver.com/mnews/article/421/0008995680",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "SK이노베이션, 울산 AI 강소기업과 제조업 AX 해법 모색",
+      "url": "https://n.news.naver.com/mnews/article/277/0005774543",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
