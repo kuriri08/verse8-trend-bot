@@ -263,7 +263,151 @@
       "title": "집 없고 IT 직원도 아니면 점점 가난해져…‘자포청’ 늘며 경제 활력 저하 우려",
       "url": "https://n.news.naver.com/mnews/article/032/0003451514",
       "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "개인정보 분쟁조정위, 쿠팡 사태 ‘집단분쟁조정’ 재개…26일까지 추가 접수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004630393",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI 열풍에 데이터센터 전력 폭증…2030년 2배 넘는다[AI픽]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016134736",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "네이버-크래프톤, 배그 e스포츠 생태계 함께 키운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006304231",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "AI·6G 보안 표준에 韓 기술 반영…국제회의서 29건 성과",
+      "url": "https://n.news.naver.com/mnews/article/003/0014003067",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "연구원이 하던 실험, 이젠 AI가…495억 들여 신약개발 자율실험실 구축",
+      "url": "https://n.news.naver.com/mnews/article/008/0005370992",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"예능보다가 또 광고?\"…정부, 30분짜리 방송 프로그램도 중간광고 허용",
+      "url": "https://n.news.naver.com/mnews/article/003/0014003375",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "난 네이버로 체코전 봤다…‘치지직’ 관람 482만명 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/028/0002809408",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "펄어비스 '붉은사막' 누적 판매량 600만장…미국서 연간 2위",
+      "url": "https://n.news.naver.com/mnews/article/001/0016133209",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "기아, 찾아가는 음악회 개최…장애인 문화 접근성 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005775452",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "문체부, 현지공조수사로 웹툰 불법 유통 베트남 피의자 검거",
+      "url": "https://n.news.naver.com/mnews/article/022/0004135030",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "보물로 지정된 안중근 유묵 54년 만에 첫 경매에…시작가 16억원",
+      "url": "https://n.news.naver.com/mnews/article/025/0003530013",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "놀유니버스, 여행·티켓 'NOL'로 통합…'AI 트래블 에이전시' 도약",
+      "url": "https://n.news.naver.com/mnews/article/008/0005370953",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "저녁까지 내륙 요란한 소나기...내일 북중미 월드컵 날씨는?[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002365178",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "국립국악원 신임 원장에 서승미 경인교대 교수",
+      "url": "https://n.news.naver.com/mnews/article/018/0006304141",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "한국저작권보호원장에 윤성천 문체부 실장",
+      "url": "https://n.news.naver.com/mnews/article/011/0004630475",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "문체부, 한국콘텐츠진흥원장에 김윤지 씨 임명",
+      "url": "https://n.news.naver.com/mnews/article/030/0003437097",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "금융위 '빚투' 급증에 가계대출 비상관리체계 가동",
+      "url": "https://n.news.naver.com/mnews/article/052/0002365109",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "현대로템, 철도 상생협력 콘퍼런스…동반성장펀드·R＆D 확대",
+      "url": "https://n.news.naver.com/mnews/article/021/0002797408",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "구윤철 \"청년 고용 개선을 최우선 순위로 노력하겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001363807",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "윤병운 빠진 NH證, 신재욱·배광수 '투톱' 체제 유력",
+      "url": "https://n.news.naver.com/mnews/article/629/0000507014",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "HD건설기계, 건물 기초공사용 특수장비 출시… 40톤급 파일 드라이버 인도",
+      "url": "https://n.news.naver.com/mnews/article/366/0001171339",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "기본·상세설계 경험 전무 한화오션, 7.8조 KDDX 선도함 사실상 수주…HD현대重 ‘항고’ 할듯",
+      "url": "https://n.news.naver.com/mnews/article/021/0002797208",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "스페이스X 상장에 기관 자금도 몰려…블랙록 7조원대 청약",
+      "url": "https://n.news.naver.com/mnews/article/001/0016134422",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "KAI, GE아비오와 맞손…회전익 핵심기술 고도화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005775458",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:01"
+  "naver_last_collected": "15:00"
 }
