@@ -143,7 +143,145 @@
       "title": "레미콘 휴업에 105개 현장 지연…삼성·SK도 차질",
       "url": "https://n.news.naver.com/mnews/article/422/0000874216",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "클로드 \"제미나이 비켜\"…한국 AI 앱 시장 챗GPT 이어 2위 올라",
+      "url": "https://n.news.naver.com/mnews/article/277/0005775828",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"아이폰17 샀는데 AI 100% 못 써?…애플 '램 짜돌이' 정책의 부메랑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014004908",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "광화문 응원 함성 뒤엔 이통사가 뛴다…월드컵 통신망 총력전",
+      "url": "https://n.news.naver.com/mnews/article/031/0001034850",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "전남광주특별시, AI·에너지·인재 몰리는 반도체 밸리 꿈꾼다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016137342",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "조용한 초음속기 ‘마하 1.4’ 돌파…실제 임무 속도 도달",
+      "url": "https://n.news.naver.com/mnews/article/028/0002809524",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "[SW키트] \"코딩만 잘해선 안 돼\"…기업 성과 돕는 'AI 엔지니어' 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002426493",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "수백명 엔지니어가 매달린 도면 작업을 몇분만에…'도면 AI', 제조업 판 바뀐다 [AI 클로즈업]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002230796",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 서울 31도…자외선과 오존 농도 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/055/0001364025",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "하이브, BTS 공연 시작 지연 사과...\"현장 운영 전반 점검\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002365865",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘입원 치료’ 최불암 찾은 최휘영 장관…“퇴원하면 막걸리 한잔”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004135173",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 6월 13일[김동완의 오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003652203",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "일요일, 전국 흐린 가운데 곳곳 소나기…돌풍·천둥번개·우박 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003031527",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "제주, 주말 흐린 가운데 일교차 큰 날씨…낮 최고 26도",
+      "url": "https://n.news.naver.com/mnews/article/003/0014004305",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "'1일 1닭' 인증한 젠슨 황…4박5일 K푸드의 기록[이 집! 지금, 이 맛]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006305633",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“호텔 예약 무조건 빨리해야?”…‘이때’ 예약하면 44% 더 싸다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003652263",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "미 증시 일제히 상승…스페이스X 상장·종전 기대감",
+      "url": "https://n.news.naver.com/mnews/article/422/0000874296",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"스페이스X 한주도 못 받았다\"...미래에셋증권 공모주 청약 '무산'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005371340",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "비트코인 회복 가로막는 AI 열풍…스페이스X·오픈AI 상장 러시",
+      "url": "https://n.news.naver.com/mnews/article/003/0014004425",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "스페이스X, 사상 최대 IPO 마치고 19% 급등…머스크 세계 첫 1조달러 부자",
+      "url": "https://n.news.naver.com/mnews/article/138/0002230763",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "제네시스, '르망 24시간' 하이퍼카 클래스 첫 출전",
+      "url": "https://n.news.naver.com/mnews/article/079/0004157413",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "은행 예금금리 다시 3%대 진입…기업 여윳돈 유치 분주",
+      "url": "https://n.news.naver.com/mnews/article/001/0016137221",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "주식 팔아 강남 갔다…3조7000억 주택시장 유입",
+      "url": "https://n.news.naver.com/mnews/article/005/0001854766",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "안전자산이라던 金, 전쟁 중 25% 추락…종전이 반등 불씨 될까",
+      "url": "https://n.news.naver.com/mnews/article/421/0009002057",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
