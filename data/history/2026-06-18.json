@@ -143,7 +143,145 @@
       "title": "코스피 8864.24 사상 최고치 마감…SK하이닉스, 첫 ‘250만 닉스’",
       "url": "https://n.news.naver.com/mnews/article/025/0003531187",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "애플 새 AI '시리' 공개했지만… 큰 반응 없는 주가의 의미",
+      "url": "https://n.news.naver.com/mnews/article/665/0000007574",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "앤스로픽, 오픈AI 이어 서울 교두보… 글로벌 AI 격전지로 떠올라",
+      "url": "https://n.news.naver.com/mnews/article/020/0003727564",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'나만의 상어'와 대화하고 블루홀 탐험… 아기상어 AI 전시 18일 개막",
+      "url": "https://n.news.naver.com/mnews/article/421/0009009072",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "앤트로픽, 서울 오피스 개소…삼성·LG·네이버 등 클로드 도입 확대",
+      "url": "https://n.news.naver.com/mnews/article/215/0001255759",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "韓 주도 '개인정보 불법유통대응 작업반' 출범…7개국 참여",
+      "url": "https://n.news.naver.com/mnews/article/001/0016144306",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "50만원대에 즐기는 '갤럭시 AI'…삼성, '갤럭시 A37 5G' 출시",
+      "url": "https://n.news.naver.com/mnews/article/018/0006308646",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "양자컴퓨터 '100큐비트 벽' 넘었다…구글·IBM에 도전장[과학을읽다]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005777822",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "5500년 전 수렵채집 사회, 페스트 팬데믹 있었다[사이언스샷]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001172506",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "삼성서울병원, 암·호흡기·소화기 아태 최고 병원 석권… 중증질환 경쟁력 입증",
+      "url": "https://n.news.naver.com/mnews/article/014/0005536462",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "폐허의 서울, 버려진 아이들은 음악으로 살아냈다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005695218",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "부추전·김치전을 과자로…오리온 '지지미' 2종 출시",
+      "url": "https://n.news.naver.com/mnews/article/015/0005300054",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "올해 첫 폭염특보…체감온도 34도까지 올라[날씨/XR]",
+      "url": "https://n.news.naver.com/mnews/article/055/0001365231",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 6월 17일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006307788",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "BTS 드디어 그래미상 받나‥아시안팝 퍼포먼스 부문 신설",
+      "url": "https://n.news.naver.com/mnews/article/214/0001506052",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "낮 기온 30도 이상 더위‥소나기, 천둥·번개 유의",
+      "url": "https://n.news.naver.com/mnews/article/214/0001506236",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“더는 거짓말하고 살기 싫었다”…229만명 유명 유튜버, 커밍아웃 선언",
+      "url": "https://n.news.naver.com/mnews/article/009/0005695388",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "신현송 “성과급, 물가 상승 압력”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003653619",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"대졸 아니어도 됩니다\"…SK하닉 파격 채용에 구직자 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005299617",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘국민서학주’ 테슬라 궤보 잇는 스페이스X?···서학개미, 상장 당일 1조원 ‘풀매수’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003452488",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "연체채권, 은행→저축은행→대부업체 재매각해도 은행 책임된다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005373155",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘매파’로 변한 Fed·뉴욕증시↓…국내 증시도 하락 출발 전망[굿모닝 증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005777881",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "신규 원전 부지 경쟁, 영덕·기장이 웃었다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005777790",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "서울 4월 전세 실거래가 지수 전월 대비 1.14% 올라",
+      "url": "https://n.news.naver.com/mnews/article/003/0014012756",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
