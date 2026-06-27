@@ -143,7 +143,151 @@
       "title": "“내 취향에 맞는 싱글몰트 찾아요”",
       "url": "https://n.news.naver.com/mnews/article/009/0005699379",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "네이버앱들 현대차에 '쏙'…올해 나오는 SDV에 적용",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303260",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"AI 범죄 꼼짝마\"...범부처 협의체 힘 모은다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002428251",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "꿈의 ‘1나노 벽’ 깬 IBM… 반도체 패권 흔들까",
+      "url": "https://n.news.naver.com/mnews/article/081/0003656039",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'배그' 세계대회 'PNC 인 서울' 개최…28일까지 16개팀 격돌",
+      "url": "https://n.news.naver.com/mnews/article/421/0009025493",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "표준연·의무사 협약 체결…군 병원 MRI·CT, 국가측정표준기술 적용",
+      "url": "https://n.news.naver.com/mnews/article/079/0004162189",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "변리사회, 창립 80주년 기념식 개최…“우리기업 혁신 기술 보호 뒷받침하겠다”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699220",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'그린닷' 대신 'AI탭'...'실행형 AI 에이전트' 시대 열렸다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005539980",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "한국, 바이오USA서 존재감…첫 공식 세션에 역대 최대 한국관[바이오 USA]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009025738",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "역대 가장 뜨거워진 바다, 주말엔 다시 최고 33도 폭염...이례적 7월 장마 찾아오나",
+      "url": "https://n.news.naver.com/mnews/article/437/0000498118",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "AI가 쓰고 읽을수록…당신은 생각을 잃는다 [북스&]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635431",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "제네시스, ‘마그마 GT 콘셉트’ 아시아 최초 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635320",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "30℃ 웃도는 더위...강한 자외선 주의[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002371565",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "디 올 뉴 아반떼부터 PV5 3종까지…현대차그룹, 부산서 신차 라인업 공개",
+      "url": "https://n.news.naver.com/mnews/article/031/0001037903",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "필름 기업은 어쩌다 폭탄과 핵무기 제조에 뛰어들게 됐을까",
+      "url": "https://n.news.naver.com/mnews/article/469/0000938900",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“초청 넘어 정착까지”…한성교회, 전도 사역 방향 나눠",
+      "url": "https://n.news.naver.com/mnews/article/005/0001857380",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "문체부 36년 만에 첫 여성 대변인…임영아 체육협력관 발탁",
+      "url": "https://n.news.naver.com/mnews/article/421/0009026472",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘인천–제주’ 직항 인기 이어간다…10월24일까지 연장 운항",
+      "url": "https://n.news.naver.com/mnews/article/662/0000098374",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "어려울 때마다 이순신 찾았다…콜마 회장의 36년 경영 비결",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303138",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "토스 포스, 점심시간 이어 저녁에도 결제 시스템 '먹통'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016162172",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"해외로 갈 반도체를 광주에서?\"…삼성전자 술렁이는 까닭",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303379",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "부산모빌리티쇼 개막…12개국 141개사 육해공 모빌리티 한자리에",
+      "url": "https://n.news.naver.com/mnews/article/081/0003656237",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "[속보]반도체 차익실현·업종 순환매…뉴욕증시 약보합 마감",
+      "url": "https://n.news.naver.com/mnews/article/018/0006316144",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"전동화의 문턱 낮춘다\"…BYD, 하이브리드 승부수로 한국 시장 정조준",
+      "url": "https://n.news.naver.com/mnews/article/018/0006315687",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "비트코인 6만달러 붕괴…인플레 압박↑[코인 모닝콜]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006315216",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
