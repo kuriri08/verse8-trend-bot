@@ -287,7 +287,151 @@
       "title": "[속보] 우편요금 5년 만에 인상…7월부터 편지 한 통 500원",
       "url": "https://n.news.naver.com/mnews/article/009/0005701087",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "KT \"해외 장비 아닌 자체 기술\"…양자암호통신 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/008/0005380417",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT, 한국서비스품질지수 ‘27년 연속 1위’ 달성",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701840",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“발전소 설계·보수도 AI로”… SK AX, 한국전력기술과 협업",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637407",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "한컴, 36년만에 사명 변경…“에이전틱 OS 기업 전환 본격화”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003443875",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "실속형 수요층 노린 KT…'갤럭시 점프5' 단독 출시",
+      "url": "https://n.news.naver.com/mnews/article/138/0002232880",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "IBS \"젊은 개척형 연구단장 육성…GPU 1천장 도입해 AI 응용 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000499131",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "조선대, 단일층 그래핀 기반 스핀 큐비트 구현 가능성 제시…양자정보 소자 개발 기여",
+      "url": "https://n.news.naver.com/mnews/article/030/0003443843",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "국내연구진, 루테늄 촉매 표면 형성 비밀 밝혀",
+      "url": "https://n.news.naver.com/mnews/article/421/0009037075",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "장맛비 대신 낮 더위…내륙 강한 소나기[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/422/0000880739",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "조각으로 표현한 제석천·조선 태종의 임명장, 보물 지정",
+      "url": "https://n.news.naver.com/mnews/article/448/0000623739",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 장맛비 다음주 초까지…주말 낮 32도 폭염 지속",
+      "url": "https://n.news.naver.com/mnews/article/079/0004164221",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "스텔란티스, 7월 프로모션…지프·푸조 할인 혜택",
+      "url": "https://n.news.naver.com/mnews/article/030/0003443899",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "30대도 덮친 남성 갱년기…발기부전, 밥상서 이것 치워라",
+      "url": "https://n.news.naver.com/mnews/article/025/0003534895",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "올여름 휴가 공식은 “짧고 가깝게”…고물가 시대 국내여행 가성비 코스 [여행+]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004140024",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“분명히 양치했는데 왜 입냄새가 나지?”…여름철 ‘이것’ 의심하라는데 [헬시타임]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637480",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "개소세 끝나도 지원금 쏜다…지프·푸조, 7월 특별 프로모션",
+      "url": "https://n.news.naver.com/mnews/article/092/0002429035",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "코스피 이어 코스닥도 '매도' 사이드카…5%대 급락",
+      "url": "https://n.news.naver.com/mnews/article/079/0004164177",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "유가하락에 7월 물가 숨통 트이나…'수요 확대'에 불확실성 여전",
+      "url": "https://n.news.naver.com/mnews/article/008/0005380546",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "메타도 AI 클라우드 사업 뛰어드나…AWS·MS·구글과 경쟁 예고",
+      "url": "https://n.news.naver.com/mnews/article/138/0002232926",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "비만 치료제 등 주사제 이상 반응 신고 증가…복통·발열 가장 많아",
+      "url": "https://n.news.naver.com/mnews/article/654/0000188569",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "반도체팹 호재 터진 광주에 ‘챔피언스시티’ 3216가구 분양",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305561",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "길음동 아파트, 6개월 만에 2억 뛰었다…무서운 폭주에 '비명'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305534",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "현대아울렛 동대문점 첫 리뉴얼…'골목시장'·'K패션관' 구축",
+      "url": "https://n.news.naver.com/mnews/article/001/0016171925",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성 \"세종에 8조원 투자…고성능 패키지 기판 글로벌 제조 허브로\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009036926",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
