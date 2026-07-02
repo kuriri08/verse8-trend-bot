@@ -431,7 +431,151 @@
       "title": "삼성 \"세종에 8조원 투자…고성능 패키지 기판 글로벌 제조 허브로\"",
       "url": "https://n.news.naver.com/mnews/article/421/0009036926",
       "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT, 퀀텀코리아 2026 참가...차세대 양자암호 기술 대거 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637313",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "36년만에 '한컴'으로 사명 바꾸고 새출발…\"에이전틱 OS 기업\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784695",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "정부, 5년 내 美·中 기술력 90%까지 추격 목표 세웠다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701994",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "스페이스X, '아이폰보다 얇은' AI 기기 시제품 개발…머스크는 부인",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784633",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "이상철 항우연 원장 “독자 군집위성 체계 구축해 우주경제 대비해야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006320946",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKB, 한국서비스품질지수 초고속인터넷·IPTV 1위[테크스냅]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016172462",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "통일TV PP 지위 회복...방미통위, '위법처분' 상고 포기",
+      "url": "https://n.news.naver.com/mnews/article/092/0002429081",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "정부, 비수도권 AI중심대학 8곳 더 뽑는다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006321054",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 32도에 습도까지 더한 ‘찜통더위’…장맛비는 다음주 초까지",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701825",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "스텔란티스, 7월 프로모션…'그랜드 체로키 L' 최대 477만원 할인",
+      "url": "https://n.news.naver.com/mnews/article/018/0006320893",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "장맛비 대신 소나기…한낮 후텁지근[뉴스12 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/056/0012210411",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "국가유산청, ‘평창 상원사 제석천상’ 등 보물 4건 지정 예고",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731058",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "미래 먹거리 발목 잡힌 현대차...“신사업 전개 시 노조와 협의”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701993",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨] 충북 내일도 소나기…주말 장맛비 내려",
+      "url": "https://n.news.naver.com/mnews/article/056/0012210700",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨]내일 낮 더위 속 소나기…서울 최고 30도 ‘후텁지근’",
+      "url": "https://n.news.naver.com/mnews/article/449/0000351423",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨] 부산 내일도 흐려요…자외선 지수 ‘높음’·오존 농도 ‘나쁨’",
+      "url": "https://n.news.naver.com/mnews/article/056/0012210677",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "올 상반기 ETF 시장, ‘레버리지 업은 반도체·IT’ 독주… 수익률 780%가 1위",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176222",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "한화오션, KDDX 상세설계 및 선도함 건조 우선협상대상자 선정",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176063",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "국세청 \"692만 사업자, 27일까지 부가세 확정신고하세요\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016172442",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "완성차 5사 6월 글로벌 판매 0.9% 증가…기아 늘고 현대차 줄어",
+      "url": "https://n.news.naver.com/mnews/article/055/0001368893",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "한은 \"유가 하락+물가 대책에…7월 물가 상승률, 6월보다 낮아질 것\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784559",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "삼성·SK하닉·셀트리온, 충청 반도체·바이오 '392조원' 투자",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305448",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "\"환율 수준, '뉴'는 맞지만 '노멀'은 아냐…지금은 과도기\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014043730",
+      "collected_at": "21:00"
+    },
+    {
+      "section": "경제",
+      "title": "은마아파트 재건축 사업시행계획인가…“강남구 민선9기 첫 인가”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701790",
+      "collected_at": "21:00"
     }
   ],
-  "naver_last_collected": "15:00"
+  "naver_last_collected": "21:00"
 }
