@@ -143,7 +143,151 @@
       "title": "상반기 수입차 4위 BYD, 렉서스·아우디 제쳤다",
       "url": "https://n.news.naver.com/mnews/article/021/0002803716",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "휴대폰 300만원시대?…아이폰18, 부품 원가만 45만원 오른다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000941520",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "클로드 독주 막아라…기업용 AI 시장 잡기 나선 오픈AI·메타",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536755",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "신세계아이앤씨에 창사 30년 만에 노조 출범",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187769",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "해외 무대서 경쟁력 쌓은 한인 기술인재들…“국내 사업화 기대”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178310",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 위험 크게 낮춰",
+      "url": "https://n.news.naver.com/mnews/article/030/0003446679",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "“전지현은 대박날 줄 알았더니” 충격적 적자 사태…한때 부러움 샀던 ‘유명 회사’ 무슨 일이",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668854",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "플스는 CD 접고 ‘디지털’ 간다는데…중고시장 CD값은 더 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142220",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SK하이닉스, 나스닥 상장 첫날 13% 상승…168달러 마감",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430130",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "AI가 만들어 주는 유토피아에서 사는 법[책마을]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308683",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "메가박스 회생절차 파장에…문체부, 영화계 지원 논의",
+      "url": "https://n.news.naver.com/mnews/article/018/0006327361",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "폭우 가고 밤낮없는 '찜통더위' 온다…주말 낮최고 37도",
+      "url": "https://n.news.naver.com/mnews/article/437/0000500604",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "어쩐지 친절하더니… 온라인 플랫폼의 덫이었다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860113",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "백석종 \"'칼라프'는 내 시그니처 롤…조국보다 더 특별한 무대는 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014059339",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "밤에는 열대야, 한낮 찜통...서울 33℃·대구 36℃",
+      "url": "https://n.news.naver.com/mnews/article/052/0002377980",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"차라리 부작용 감수할게\"…'기적의 약' 못 끊는 이유",
+      "url": "https://n.news.naver.com/mnews/article/055/0001371618",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘이 간식’ 하나면 뇌·심장·장 건강 다 챙긴다",
+      "url": "https://n.news.naver.com/mnews/article/346/0000112689",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "국토장관 \"좋은 집 더 빨리\"…모듈러 주택 공급 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187795",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "SK하이닉스, 美 나스닥 상장…만성적인 저평가 해소될까?",
+      "url": "https://n.news.naver.com/mnews/article/448/0000625957",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "예별손보 새주인에 OK금융그룹…매각 우협대상자로 선정",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187579",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "홈플러스 노조, MBK 본사 농성 종료‥\"면담 약속 받아\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001510858",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "최태원 \"AI칩 늘 부족…고객들 공급 5~6배 늘리길 원해\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308813",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "영끌에 빚투…금리 고개드는데 가계대출이 안잡힌다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536664",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "HLB, 간암 신약 FDA 허가 또 제동...제조시설 cGMP 문제로 보완요구서 수령",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546403",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "중앙일보, 경영 정상화 절차 돌입…경영권 지분 매각 추진",
+      "url": "https://n.news.naver.com/mnews/article/018/0006327296",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
