@@ -287,7 +287,145 @@
       "title": "중앙일보, 경영 정상화 절차 돌입…경영권 지분 매각 추진",
       "url": "https://n.news.naver.com/mnews/article/018/0006327296",
       "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"AI로 살려낸 1990년대 전설의 게임\"…'단종 한국 게임, 다시 켜다'전",
+      "url": "https://n.news.naver.com/mnews/article/421/0009051634",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "크래프톤, 세계 최고 AI학회 ICML 메인트랙서 논문 10편 채택",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187535",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "새 아이폰, 얼마나 비싸질까?",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108404",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "美연구진, '中휴머노이드 로봇 활용' 동물 복강경 원격수술 성공",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188628",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SK하이닉스, 나스닥 상장 첫날 마이크론 시총 추월",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430142",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"이 광고 모델, 가짜입니다\"…구글·메타 'AI 꼬리표' 단다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060456",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "美연구진, 中 휴머노이드 로봇으로 '돼지 복강경 원격수술' 성공",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788553",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "30% 폭락 설마했는데…“빨리 팔아라” “이젠 끝물이다” 반도체 공포에 ‘3억’ 다 던졌더니",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668897",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 나들이 땐 양산 꼭 챙기세요…전국 무더위, 체감온도 33도 안팎",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788481",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 낮 최고 37도 폭염…밤낮없는 무더위 이어진다",
+      "url": "https://n.news.naver.com/mnews/article/654/0000189919",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "주말 찜통더위…경기 남부·영남·전북 폭염경보",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884022",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "AI 심은 그랜저, 승차감·속도·연비도 ‘진화’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004141963",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "30분 만에 문 앞에 비만치료제가…가격도 3분의 1 수준",
+      "url": "https://n.news.naver.com/mnews/article/055/0001371569",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "AI가 다 해주는 세상 … 낙원일까 지옥일까",
+      "url": "https://n.news.naver.com/mnews/article/009/0005705743",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“폐경 후 5년 뒤가 문제다”… 혈관병 막기 위해 꼭 먹어야 할 음식 5가지",
+      "url": "https://n.news.naver.com/mnews/article/296/0000102473",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "KB 주담대 한도 반토막에…타은행 \"수요 넘어오나\" 예의주시",
+      "url": "https://n.news.naver.com/mnews/article/421/0009052157",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "LG엔솔, 국내 첫 '배전망 ESS' 사업자 선정…\"에너지 기업 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006327120",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "하이닉스 ’40조 美 오프닝 벨‘... 자본주의 심장부 화려한 데뷔",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987038",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "HLB 간암 신약 美 승인 또 지연…“FDA, 제조시설 보완 요구”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860213",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "“성과급을 지역화폐로? 국회의원부터 적용해라”…삼성 노조 ‘발끈’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005705548",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "한은 금리인상 초읽기…하반기 경제성장전략 공개[다음주 경제]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188593",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "호반건설, 한진칼 지분 20% 넘겨…조원태 회장과 0.42%p 차",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188173",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "테슬라, FSD v14 라이트 韓 출시… 미국산 모델3·Y만 적용",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178342",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:00"
+  "naver_last_collected": "15:00"
 }
