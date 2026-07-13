@@ -143,7 +143,139 @@
       "title": "이재명 정부 포용금융 독려에 5대금융, 상반기 11조원 공급",
       "url": "https://n.news.naver.com/mnews/article/009/0005706214",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "메타, 인스타 AI 이미지 생성 기능 사흘 만에 중단",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987197",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'한화생명에 역전패' BLG 양대인 감독 \"너무 조급했다\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016189952",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "LG헬로비전, 월 5천원에 즐기는 ‘트롯 정주행’ 서비스 출시",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328774",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "KT, 정보보호 자문위원회 출범…AI 보안 전문가로 구성",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061090",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "美·中 이어… 日도 ‘재사용 로켓’ 시험 비행 성공",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142473",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "1000억 상금에 7억5000만명 열광…세계는 e스포츠 판 키우는데 한국은?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384877",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "KB증권 \"삼전, 실적개선 확대…내년 반도체 공급 가장 타이트한 시기\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016190112",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "KAIST, 반도체 ‘전기 병목’ 해결 실마리 찾았다…AI 칩 전력 손실 줄인다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328797",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "경북 포항·경산에 첫 '폭염중대경보'…내일 전국 곳곳서 소나기도[내일날씨]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328512",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "곳곳 열대야...한낮엔 폭염 기승, 서울 33℃·포항 37℃[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002378518",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "상반기 ‘연극 티켓’ 판매액, 작년의 2배",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457618",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "억지스럽지 않은 ‘투란도트’ 해석과 결말 나올까",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860389",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "전국 무더위 속 곳곳 소나기…대구 낮 최고 37도 [오늘의 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640783",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "이자이 국제음악콩쿠르 첫 한국 결선…이세나, 주니어 2위",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061468",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "용호성 전 차관, '국제 AI 작곡 경연' 우승",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309042",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "\"미래성장 위해 노사 맞손\"…LS일렉, ‘임단협 무교섭’ 타결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328318",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "SK하이닉스 나스닥 상장 사흘 만에 레버리지 ETF '봇물'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788753",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "에코프로, 1.2조 ‘실탄’ 쌓아 인니 니켈 투자",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860522",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "'후기인 척 뒷광고' 성형외과 3곳, 공정위 제재",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884262",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "AI 수요 폭증에 '속도전'…삼성, 용인 첫 팹 2년 앞당긴다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048842",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "바닥 밑에 지하실 있다던데...\"코스피 진짜 바닥 왔다\"는 증권가",
+      "url": "https://n.news.naver.com/mnews/article/014/0005547112",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "“이달 금리인상 확실…올해 인상은 총 두 번” [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640796",
+      "collected_at": "09:01"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:01"
 }
