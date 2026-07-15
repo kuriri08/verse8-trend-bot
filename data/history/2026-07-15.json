@@ -143,7 +143,151 @@
       "title": "삼성전자, 獨 ‘레드닷 디자인 어워드’ 최고상 2개 포함 8관왕",
       "url": "https://n.news.naver.com/mnews/article/020/0003733765",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT·KT ‘AI 고속도로’ 핵심 AI-RAN 구축 사업 착수…“피지컬AI 실증”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641448",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "티빙 개인정보 유출 일파만파…제휴 회사 고객도 포함",
+      "url": "https://n.news.naver.com/mnews/article/056/0012217425",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "국제물리올림피아드 한국 전원 금메달…종합 1위도 차지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016192634",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "라이엇 \"LoL 신규 클라이언트 개발 원활…아수라장 계속 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016194754",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "SKT, 독자 AI 정예팀 몸집 키운다…SK AX·테크노매트릭스 합류",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707349",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "칩플레이션 직격탄…2분기 스마트폰 출하량 13년만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641260",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "한국어 질문에 답변하는 앤트로픽 AI…\"모델·언어 특색 살려\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009058336",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "[사이언스샷] 우주에서 찍은 첫 X선 영상, 우주 의학의 신기원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001179247",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "404년 만에 드러난 불상 속 복장물…유홍준 \"흑백 TV서 컬러로 바뀐 감동\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014066168",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘 밤 또 '물폭탄'…태풍 바비 영향으로 폭우 쏟아진다",
+      "url": "https://n.news.naver.com/mnews/article/654/0000190375",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "세계유산위 부산 개최 기념 부산역사 학술대회[부산]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379312",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"11년 묶인 담뱃값, 사실상 내린 셈…일회성 아닌 지속 인상\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009059818",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 7월 15일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330366",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "퇴근길 이후 본격적인 비...밤사이 중북부 '집중 호우'[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379410",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오후까지 곳곳 비...전국 강풍·해상 높은 물결 계속[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379625",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "생활/문화",
+      "title": "출근길 곳곳 약한 비...습도 높은 무더위[출근길 날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379623",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "이 대통령, 영국 앤 공주 접견‥\"한국 국민들이 기다려\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001511747",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "홈플러스 직원들 속타들어가는데…MBK, 노조면담 당일날 연기",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707554",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "국민연금 외화출납·관리 … 우리은행이 3년간 맡는다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707426",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "삼성SDI가 개발한 UPS용 배터리… 글로벌 화재 안전 ‘세계 최초 인증’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804544",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "IBK기업은행, 생산적포용금융부 신설…부행장 3명 선임",
+      "url": "https://n.news.naver.com/mnews/article/003/0014066675",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "'6조원 증발' 개미들 곡소리…삼전하닉 레버리지 -60%↓ '신저가'",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100411",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "최태원 \"AI 토큰 비용 낮출 것…새로운 AI데이터센터 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016193230",
+      "collected_at": "09:01"
+    },
+    {
+      "section": "경제",
+      "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309952",
+      "collected_at": "09:01"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:01"
 }
