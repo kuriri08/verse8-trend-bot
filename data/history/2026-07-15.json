@@ -287,7 +287,151 @@
       "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
       "url": "https://n.news.naver.com/mnews/article/015/0005309952",
       "collected_at": "09:01"
+    },
+    {
+      "section": "IT/과학",
+      "title": "메가존클라우드·성균관대, AI·양자 생태계 조성 '맞손'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330524",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "삼성전자, 갤럭시 Z폴드8에 20배 강한 ‘티타늄 필름’ 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641752",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "네이버, AI가 주목한 창작자에 월 1000만원 쐈다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330813",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "李대통령 ‘임신중지 의약품’ 실용론…식약처 허가 기조 바뀌나",
+      "url": "https://n.news.naver.com/mnews/article/366/0001179336",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "네이버 AI탭 이용자 1000만명 돌파… 8월 부동산·웨일 에이전트 공개",
+      "url": "https://n.news.naver.com/mnews/article/366/0001179320",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "움직이는 챗GPT 온다…“오픈AI 첫 기기는 스마트 스피커”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330374",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "구글 AI 책임자 “AGI 도래 눈앞…미 주도 규제기관 신설해야”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012218266",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "카카오톡 PC서도 '챗GPT 포 카카오' 쓴다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016195077",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "62년만 체제 전환…현장은 여전히 ‘문화재’ 시절 [유산의 역설: 보존인가, 생존인가①]",
+      "url": "https://n.news.naver.com/mnews/article/666/0000115277",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "다시 여름방학…국중박 관람시간 1시간 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641479",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "'문화요일' 확대하자 국민 71% \"문화예술활동 늘었다\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626956",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "오늘도 전국 곳곳 비바람…호우특보는 해제",
+      "url": "https://n.news.naver.com/mnews/article/055/0001372540",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"엉덩이 털이 있어서 그런가?\"⋯여러 번 닦아도 휴지에 변이 묻는 이유",
+      "url": "https://n.news.naver.com/mnews/article/031/0001042370",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "‘생새우 먹방’ 화제… 비브리오패혈증 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/346/0000112881",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[날씨] 습도 높은 '초복 더위'...내일 충청 이남 다시 장맛비",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379851",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "\"밤마다 입이 쉬질 않아\"⋯자꾸 신경 쓰이게 하는 남편 버릇에 '진절머리' [헬스+]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001042365",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "김정관 \"AI시대 선도 위해 기업투자 우선…노동은 일하는 방식 혁신해야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009060163",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "[속보] 6월 취업자 6.3만명 증가…청년층은 19.7만명↓",
+      "url": "https://n.news.naver.com/mnews/article/421/0009059915",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "경제계 \"최저임금 인상에, 영세업체 어려움 가중될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379670",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "양종희 회장 \"모든 경험이 데이터...KB금융, AI 인재 양성의 산실로\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005548411",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "HLB \"미국 허가 보류됐던 간암 신약…중대 사유 해소됐다\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310126",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘뉴욕 하닉’ 27% 급등…메모리주 되살린 월가 보고서 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537677",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "선행 다짐하는 '선당포'…LG전자, '라이프스굿 데이' 개최",
+      "url": "https://n.news.naver.com/mnews/article/138/0002234236",
+      "collected_at": "15:00"
+    },
+    {
+      "section": "경제",
+      "title": "기획처, 재량·의무지출 '성역 없는 구조조정'…3대 메가 프로젝트 재정 총력[업무보고]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005790361",
+      "collected_at": "15:00"
     }
   ],
-  "naver_last_collected": "09:01"
+  "naver_last_collected": "15:00"
 }
