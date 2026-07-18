@@ -143,7 +143,151 @@
       "title": "금리인상에 주담대도 8% 눈앞…빚투·영끌족, 이자 갚다 날 샐 판",
       "url": "https://n.news.naver.com/mnews/article/081/0003661985",
       "collected_at": "03:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"평생 처음 보는 수\"…카타고 초반 변칙에 신진서 스텝 꼬였다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311115",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "기계연·프라운호퍼 뭉쳤다…\"AI레이저 가공공정 고도화\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014072980",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "\"300만원폰 나오나\"…삼성 '갤럭시 Z8' 역대급 가격표 달 듯[미리보는 언팩③]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014072910",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'EWC 4강 진출' T1 도란 \"부진 극복 완료, 컨디션 자신 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016200928",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "中 문샷, GPT 턱밑 추격…세계 최대 오픈소스 AI에 월가 '술렁'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332270",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "우주서 본 히말라야…산비탈 따라 흐르는 거대 빙하 포착 [우주서 본 지구]",
+      "url": "https://n.news.naver.com/mnews/article/092/0002430922",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "'AI 도령' 따라 신당 입장…커리어 고민 털어놨더니[잇:써봐]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332283",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "IT/과학",
+      "title": "비가 와도, 안 와도 장마…달라진 장마의 비밀",
+      "url": "https://n.news.naver.com/mnews/article/584/0000038542",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "연휴 전국 장맛비...밤사이 중부 '극한 호우' 비상[날씨]",
+      "url": "https://n.news.naver.com/mnews/article/052/0002380893",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "연휴 내내 장맛비‥내일 새벽 '극한호우' 고비",
+      "url": "https://n.news.naver.com/mnews/article/214/0001512223",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“언어는 음악, 문턱은 없다”…아비뇽 홀린 한강의 위로",
+      "url": "https://n.news.naver.com/mnews/article/056/0012220057",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "유시민 '유럽 도시 기행 3' 출간 즉시 1위[베스트셀러]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016200130",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "일부 지역 호우주의보 발령...국지성 호우",
+      "url": "https://n.news.naver.com/mnews/article/657/0000053448",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "2026년 7월 17일 띠별 운세[오늘의 운세]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332065",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "[뉴스초점] 중부지방 '극한 호우'…중대본 2단계 가동",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886218",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "생활/문화",
+      "title": "“장에 좋다며…” 요거트 먹으면 배에 ‘가스’만 더부룩, 이유는 이거였다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458844",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "‘피크아웃’ 공포 덮친 반도체, 주가 줄줄이 급락",
+      "url": "https://n.news.naver.com/mnews/article/020/0003734759",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "금리인상기 돌입, ‘주담대 8% 시대’ 올까 두려운 서민들",
+      "url": "https://n.news.naver.com/mnews/article/022/0004143819",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "'2000억 대출' 급한 불 껐지만… 홈플러스, 영업 정상화까지 '첩첩산중'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942772",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "한국, 중견국 16개 국제협의체 신규 가입",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708820",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "우버, ‘배민’ 새 주인 된다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003662050",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "최태원 “SK하닉 주식 사고팔고 말고 가만히 갖고 있어라”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861593",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "[단독] '도급제 최저임금'  보고서 \"6개 직종 모두 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373406",
+      "collected_at": "09:00"
+    },
+    {
+      "section": "경제",
+      "title": "박민준 뤼튼테크놀로지 AX 대표 “단순 업무보다 매출 영향 있는 업무부터 AI 전환해야” [한경협 제주포럼]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671545",
+      "collected_at": "09:00"
     }
   ],
-  "naver_last_collected": "03:00"
+  "naver_last_collected": "09:00"
 }
